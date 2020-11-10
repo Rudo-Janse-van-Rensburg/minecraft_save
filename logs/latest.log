@@ -1,0 +1,18 @@
+[08:57:16] [Server thread/INFO]: [Server] wk 
+[08:58:25] [User Authenticator #19/INFO]: UUID of player god_desu is 70e8a532-b20f-475e-af80-856c6efaadf6
+[08:58:26] [Server thread/INFO]: god_desu[/197.185.102.110:38167] logged in with entity id 102822 at (-1620.1255102159116, 97.0, -700.6402886049207)
+[08:58:26] [Server thread/INFO]: god_desu joined the game
+[08:58:41] [Server thread/INFO]: god_desu lost connection: Disconnected
+[08:58:41] [Server thread/INFO]: god_desu left the game
+[08:58:58] [Server thread/INFO]: Stopping server
+[08:58:58] [Server thread/INFO]: Saving players
+[08:58:58] [Server thread/INFO]: Saving worlds
+[08:58:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:58:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:58:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08:58:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:58:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08:58:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:58:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:58:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:58:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
