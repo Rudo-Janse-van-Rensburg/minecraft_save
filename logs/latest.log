@@ -1,68 +1,12 @@
-[00:00:58] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[00:01:18] [Server thread/WARN]: TwoMinuteMoodles moved too quickly! -9.929173427846536,0.06454204416000664,4.781005359512221
-[00:01:22] [Server thread/WARN]: TwoMinuteMoodles moved too quickly! 8.37660009916587,0.15190600765986062,-5.979080278509855
-[00:02:07] [Server thread/INFO]: TwoMinuteMoodles lost connection: Disconnected
-[00:02:07] [Server thread/INFO]: TwoMinuteMoodles left the game
-[00:02:17] [User Authenticator #189/INFO]: UUID of player TwoMinuteMoodles is da149619-25d7-4577-86fa-b5d0d95ebfa6
-[00:02:17] [Server thread/INFO]: TwoMinuteMoodles[/41.115.39.210:61302] logged in with entity id 135459 at (184.76881060348015, 68.0, -479.0983881777162)
-[00:02:17] [Server thread/INFO]: TwoMinuteMoodles joined the game
-[00:03:34] [Server thread/INFO]: <TwoMinuteMoodles> -200 -60
-[00:04:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-299, y=50, z=-21} fx{x=-301, y=48, z=-20}
-[00:04:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-321, y=57, z=4} fx{x=-321, y=58, z=6}
-[00:05:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=55, z=15} fx{x=-317, y=55, z=14}
-[00:05:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=55, z=15} fx{x=-317, y=55, z=14}
-[00:05:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=55, z=15} fx{x=-317, y=55, z=14}
-[00:05:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-318, y=56, z=15} fx{x=-318, y=57, z=15}
-[00:05:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-325, y=52, z=22} fx{x=-325, y=53, z=22}
-[00:07:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-318, y=48, z=64} fx{x=-320, y=47, z=64}
-[00:07:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-318, y=48, z=64} fx{x=-319, y=48, z=64}
-[00:07:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-323, y=46, z=64} fx{x=-322, y=45, z=64}
-[00:08:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-315, y=44, z=60} fx{x=-313, y=43, z=58}
-[00:08:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-313, y=43, z=57} fx{x=-314, y=43, z=58}
-[00:08:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-314, y=43, z=57} fx{x=-312, y=43, z=56}
-[00:10:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-309, y=49, z=41} fx{x=-309, y=51, z=41}
-[00:11:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-296, y=65, z=17} fx{x=-296, y=64, z=16}
-[00:12:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-290, y=53, z=32} fx{x=-289, y=54, z=32}
-[00:14:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-281, y=48, z=44} fx{x=-281, y=45, z=46}
-[00:14:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-280, y=42, z=47} fx{x=-281, y=41, z=48}
-[00:14:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-280, y=42, z=47} fx{x=-280, y=43, z=47}
-[00:14:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-278, y=40, z=47} fx{x=-278, y=42, z=46}
-[00:14:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-272, y=41, z=44} fx{x=-272, y=40, z=43}
-[00:14:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-270, y=40, z=47} fx{x=-262, y=41, z=46}
-[00:15:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-242, y=35, z=53} fx{x=-240, y=36, z=54}
-[00:16:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-248, y=37, z=54} fx{x=-248, y=35, z=58}
-[00:16:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-248, y=40, z=63} fx{x=-248, y=43, z=64}
-[00:16:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-248, y=47, z=62} fx{x=-247, y=47, z=62}
-[00:18:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-233, y=50, z=63} fx{x=-235, y=49, z=63}
-[00:18:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-235, y=49, z=63} fx{x=-233, y=50, z=63}
-[00:18:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-231, y=51, z=63} fx{x=-228, y=53, z=62}
-[00:18:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-231, y=51, z=63} fx{x=-228, y=52, z=62}
-[00:19:07] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[00:19:25] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[00:19:25] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[00:20:16] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[00:20:19] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[00:20:28] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[00:20:32] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[00:20:34] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[00:20:36] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[00:20:37] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[00:20:38] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[00:20:40] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[00:20:50] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[00:21:35] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[00:21:37] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[00:26:08] [Server thread/INFO]: TwoMinuteMoodles lost connection: Disconnected
-[00:26:08] [Server thread/INFO]: TwoMinuteMoodles left the game
-[06:57:49] [Server thread/INFO]: Stopping server
-[06:57:49] [Server thread/INFO]: Saving players
-[06:57:49] [Server thread/INFO]: Saving worlds
-[06:57:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:57:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:57:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06:57:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:57:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06:57:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:57:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:57:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:57:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:16:19] [Server thread/INFO]: Stopping server
+[08:16:19] [Server thread/INFO]: Saving players
+[08:16:19] [Server thread/INFO]: Saving worlds
+[08:16:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:16:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:16:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08:16:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:16:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08:16:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:16:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:16:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:16:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-11-12 19:49:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-10-31 22:57:48 +0000"
@@ -434,6 +440,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2020-11-05 21:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-11-12 19:50:43 +0000"
     },
     "done": true
   },
@@ -952,6 +964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2020-11-12 20:27:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-10-31 23:05:31 +0000"
@@ -1042,6 +1060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2020-11-12 20:13:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2020-11-06 21:10:44 +0000"
@@ -1102,6 +1126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-11-12 19:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2020-11-05 15:40:36 +0000"
@@ -1117,6 +1147,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2020-11-05 16:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2020-11-12 20:13:23 +0000"
     },
     "done": true
   },
@@ -1165,6 +1201,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-10-31 22:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2020-11-12 19:50:10 +0000"
     },
     "done": true
   },
@@ -1366,6 +1408,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-11-05 20:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-11-12 19:50:10 +0000"
     },
     "done": true
   },
@@ -1655,6 +1703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-11-12 19:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-10-31 23:05:27 +0000"
@@ -1898,7 +1952,8 @@
       "melon_slice": "2020-11-05 21:24:59 +0000",
       "golden_carrot": "2020-11-10 20:36:48 +0000",
       "cooked_chicken": "2020-11-06 16:23:44 +0000",
-      "mushroom_stew": "2020-10-31 23:51:22 +0000"
+      "mushroom_stew": "2020-10-31 23:51:22 +0000",
+      "carrot": "2020-11-12 20:48:14 +0000"
     },
     "done": false
   },
@@ -2098,6 +2153,7 @@
     "criteria": {
       "minecraft:pig": "2020-11-05 21:26:28 +0000",
       "minecraft:cow": "2020-10-31 23:32:29 +0000",
+      "minecraft:chicken": "2020-11-12 14:17:52 +0000",
       "minecraft:wolf": "2020-11-06 21:16:05 +0000"
     },
     "done": false
@@ -2159,6 +2215,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2020-10-31 23:05:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2020-11-12 19:49:20 +0000"
     },
     "done": true
   },
@@ -2285,6 +2347,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2020-10-31 23:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2020-11-12 20:27:49 +0000"
     },
     "done": true
   },
@@ -2804,6 +2872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2020-11-12 20:27:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-11-05 16:22:36 +0000"
@@ -2984,6 +3058,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-11-12 20:12:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2020-11-05 15:01:44 +0000"
@@ -3121,6 +3201,13 @@
       "has_planks": "2020-11-10 20:41:52 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/white.png": "2020-11-12 20:28:12 +0000",
+      "textures/entity/cat/jellie.png": "2020-11-12 20:28:31 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
