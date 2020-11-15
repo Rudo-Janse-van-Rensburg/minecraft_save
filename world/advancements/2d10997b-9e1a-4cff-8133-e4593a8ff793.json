@@ -786,6 +786,7 @@
       "minecraft:wither_skeleton": "2020-11-05 16:34:28 +0000",
       "minecraft:husk": "2020-11-03 22:21:16 +0000",
       "minecraft:ender_dragon": "2020-11-14 22:40:25 +0000",
+      "minecraft:shulker": "2020-11-15 13:57:00 +0000",
       "minecraft:cave_spider": "2020-11-03 22:53:58 +0000",
       "minecraft:piglin": "2020-11-04 21:20:55 +0000",
       "minecraft:enderman": "2020-10-31 21:50:01 +0000",
@@ -3239,6 +3240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2020-11-15 13:57:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2020-11-10 20:24:52 +0000"
@@ -3284,6 +3291,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-11-04 20:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2020-11-15 13:56:16 +0000"
     },
     "done": true
   },
