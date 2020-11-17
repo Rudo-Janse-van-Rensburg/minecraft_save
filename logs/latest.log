@@ -1,490 +1,758 @@
-[03:18:27] [User Authenticator #23/INFO]: UUID of player TwoMinuteMoodles is da149619-25d7-4577-86fa-b5d0d95ebfa6
-[03:18:27] [Server thread/INFO]: TwoMinuteMoodles[/41.115.58.64:32836] logged in with entity id 86818 at (-189.28878627231916, 50.0, 125.33604150935017)
-[03:18:27] [Server thread/INFO]: TwoMinuteMoodles joined the game
-[03:29:14] [Server thread/WARN]: Trying to add entity with duplicated UUID 7690db2b-72f4-4335-a9b1-22cacfcef44c. Existing minecraft:armor_stand#92610, new: minecraft:armor_stand#92610
-[03:29:15] [Server thread/WARN]: Trying to add entity with duplicated UUID c64f880f-fa18-469c-9e19-7e1f453f6512. Existing minecraft:armor_stand#92612, new: minecraft:armor_stand#92612
-[03:35:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/93539, l='ServerLevel[world]', x=-1557.99, y=79.00, z=-740.06]
-[03:36:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/93653, l='ServerLevel[world]', x=-1558.79, y=79.00, z=-742.11]
-[03:38:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/94117, l='ServerLevel[world]', x=-1560.80, y=79.00, z=-738.20]
-[03:41:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/94580, l='ServerLevel[world]', x=-1557.94, y=79.00, z=-741.43]
-[03:41:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/94666, l='ServerLevel[world]', x=-1559.07, y=79.00, z=-740.47]
-[03:43:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/95139, l='ServerLevel[world]', x=-1557.09, y=80.00, z=-744.60]
-[03:44:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/95548, l='ServerLevel[world]', x=-1561.38, y=79.00, z=-739.20]
-[03:45:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/95758, l='ServerLevel[world]', x=-1556.11, y=79.00, z=-742.29]
-[03:46:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/95871, l='ServerLevel[world]', x=-1558.30, y=79.00, z=-740.83]
-[03:47:31] [Server thread/WARN]: Trying to add entity with duplicated UUID 09eae93f-1665-47aa-91d5-1b1115fc784e. Existing minecraft:armor_stand#96053, new: minecraft:armor_stand#96053
-[03:49:13] [Server thread/WARN]: Trying to add entity with duplicated UUID e99f39f1-6d0a-40a3-a432-7b85ab8491d7. Existing minecraft:armor_stand#96350, new: minecraft:armor_stand#96350
-[03:49:14] [Server thread/WARN]: Trying to add entity with duplicated UUID 5031d47f-629b-4e8d-96a5-ed1eaf9838c9. Existing minecraft:armor_stand#96357, new: minecraft:armor_stand#96357
-[03:49:15] [Server thread/WARN]: Trying to add entity with duplicated UUID 30ec7e3a-e70d-4188-b8be-0f09870c7183. Existing minecraft:armor_stand#96360, new: minecraft:armor_stand#96360
-[03:53:08] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/96903, l='ServerLevel[world]', x=-1558.01, y=80.00, z=-737.20]
-[03:53:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/97031, l='ServerLevel[world]', x=-1558.53, y=79.00, z=-739.47]
-[03:55:40] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[04:12:38] [Server thread/WARN]: TwoMinuteMoodles moved too quickly! 2.1116163683969944,0.0,-10.905785193624354
-[04:16:03] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[04:16:20] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[04:17:38] [Server thread/WARN]: TwoMinuteMoodles moved too quickly! 4.938703461764135,0.0,11.399422971552212
-[04:17:55] [Server thread/WARN]: TwoMinuteMoodles moved too quickly! 0.07142167457527648,0.0,11.128317422641203
-[04:18:43] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[04:23:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/108289, l='ServerLevel[world]', x=-1558.08, y=79.00, z=-739.53]
-[04:25:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/108620, l='ServerLevel[world]', x=-1558.74, y=79.00, z=-743.80]
-[04:26:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/108668, l='ServerLevel[world]', x=-1557.14, y=79.00, z=-740.54]
-[04:30:13] [Server thread/INFO]: TwoMinuteMoodles lost connection: Disconnected
-[04:30:13] [Server thread/INFO]: TwoMinuteMoodles left the game
-[04:30:25] [User Authenticator #24/INFO]: UUID of player TwoMinuteMoodles is da149619-25d7-4577-86fa-b5d0d95ebfa6
-[04:30:25] [Server thread/INFO]: TwoMinuteMoodles[/41.115.58.64:33597] logged in with entity id 109877 at (-185.99892681404359, 83.0, 50.69999998807907)
-[04:30:25] [Server thread/INFO]: TwoMinuteMoodles joined the game
-[04:32:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-186, y=53, z=103} fx{x=-186, y=52, z=104}
-[04:32:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-187, y=52, z=109} fx{x=-186, y=53, z=107}
-[04:41:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/117962, l='ServerLevel[world]', x=-1561.80, y=79.00, z=-739.79]
-[04:47:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/118716, l='ServerLevel[world]', x=-1555.26, y=80.00, z=-744.10]
-[04:47:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/118742, l='ServerLevel[world]', x=-1558.56, y=79.00, z=-739.74]
-[04:48:21] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/118812, l='ServerLevel[world]', x=-1555.10, y=79.00, z=-740.28]
-[04:48:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/118837, l='ServerLevel[world]', x=-1555.09, y=80.00, z=-745.06]
-[04:48:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/118870, l='ServerLevel[world]', x=-1558.09, y=79.00, z=-738.21]
-[04:51:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/119219, l='ServerLevel[world]', x=-1559.46, y=79.00, z=-738.20]
-[04:51:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/119338, l='ServerLevel[world]', x=-1558.28, y=79.00, z=-741.47]
-[04:52:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/119463, l='ServerLevel[world]', x=-1557.82, y=79.00, z=-741.03]
-[05:02:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/126589, l='ServerLevel[world]', x=-1554.20, y=80.00, z=-742.43]
-[05:03:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/126750, l='ServerLevel[world]', x=-1558.60, y=79.00, z=-743.80]
-[05:03:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/126763, l='ServerLevel[world]', x=-1556.68, y=79.00, z=-739.15]
-[05:05:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/127056, l='ServerLevel[world]', x=-1557.58, y=79.00, z=-741.38]
-[05:06:18] [Server thread/WARN]: Trying to add entity with duplicated UUID a907cfec-451d-4fca-9a8c-4dc6a29d21d2. Existing minecraft:armor_stand#127123, new: minecraft:armor_stand#127123
-[05:06:19] [Server thread/WARN]: Trying to add entity with duplicated UUID 3a660de7-a44c-404b-93d5-e340438c7c76. Existing minecraft:armor_stand#127125, new: minecraft:armor_stand#127125
-[05:06:20] [Server thread/WARN]: Trying to add entity with duplicated UUID 4a6e9e1b-507f-4ab7-a3f6-5d0cbcb9c560. Existing minecraft:armor_stand#127130, new: minecraft:armor_stand#127130
-[05:07:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/127268, l='ServerLevel[world]', x=-1561.80, y=80.00, z=-742.80]
-[05:07:40] [Server thread/WARN]: TwoMinuteMoodles moved too quickly! 0.0,0.0,14.937195673458408
-[05:18:45] [Server thread/INFO]: TwoMinuteMoodles lost connection: Disconnected
-[05:18:45] [Server thread/INFO]: TwoMinuteMoodles left the game
-[11:47:48] [User Authenticator #25/INFO]: UUID of player LUJEFX is 2d10997b-9e1a-4cff-8133-e4593a8ff793
-[11:47:49] [Server thread/INFO]: LUJEFX[/197.94.93.136:64471] logged in with entity id 134856 at (-1617.908504446977, 101.0, -698.2317097329619)
-[11:47:49] [Server thread/INFO]: LUJEFX joined the game
-[11:49:03] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/135662, l='ServerLevel[world]', x=-1560.80, y=80.00, z=-743.39]
-[11:49:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/135671, l='ServerLevel[world]', x=-1556.99, y=79.00, z=-738.72]
-[11:51:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/135969, l='ServerLevel[world]', x=-1559.80, y=79.00, z=-743.80]
-[11:52:19] [User Authenticator #26/INFO]: UUID of player TwoMinuteMoodles is da149619-25d7-4577-86fa-b5d0d95ebfa6
-[11:52:20] [Server thread/INFO]: TwoMinuteMoodles[/105.184.187.88:54024] logged in with entity id 136203 at (241.13414867318718, 1.2000000476837158, 59.741729704550195)
-[11:52:20] [Server thread/INFO]: TwoMinuteMoodles joined the game
-[11:52:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/136298, l='ServerLevel[world]', x=-1554.20, y=80.00, z=-745.80]
-[11:52:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/136299, l='ServerLevel[world]', x=-1560.34, y=80.00, z=-743.36]
-[11:52:40] [Server thread/INFO]: <TwoMinuteMoodles> how many>
-[11:53:05] [Server thread/INFO]: TwoMinuteMoodles lost connection: Timed out
-[11:53:05] [Server thread/INFO]: TwoMinuteMoodles left the game
-[11:53:05] [Server thread/WARN]: handleDisconnection() called twice
-[11:53:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/136570, l='ServerLevel[world]', x=-1556.18, y=79.00, z=-738.20]
-[11:54:35] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/136675, l='ServerLevel[world]', x=-1558.56, y=79.00, z=-740.05]
-[11:54:38] [Server thread/INFO]: LUJEFX lost connection: Disconnected
-[11:54:38] [Server thread/INFO]: LUJEFX left the game
-[11:54:39] [User Authenticator #27/INFO]: UUID of player TwoMinuteMoodles is da149619-25d7-4577-86fa-b5d0d95ebfa6
-[11:54:39] [Server thread/INFO]: TwoMinuteMoodles[/41.115.95.47:6283] logged in with entity id 136681 at (66.76090979011609, 61.0, 32.703387188589176)
-[11:54:39] [Server thread/INFO]: TwoMinuteMoodles joined the game
-[11:54:53] [User Authenticator #28/INFO]: UUID of player LUJEFX is 2d10997b-9e1a-4cff-8133-e4593a8ff793
-[11:54:53] [Server thread/INFO]: LUJEFX[/197.94.93.136:64499] logged in with entity id 136759 at (-1637.1551892802158, 117.0625, -703.8168552376161)
-[11:54:53] [Server thread/INFO]: LUJEFX joined the game
-[11:57:22] [Server thread/INFO]: <TwoMinuteMoodles> guess my xp level
-[11:57:49] [Server thread/INFO]: <TwoMinuteMoodles> 56
-[11:57:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/137759, l='ServerLevel[world]', x=-1555.10, y=80.00, z=-745.80]
-[11:57:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/137759, l='ServerLevel[world]', x=-1555.10, y=80.00, z=-745.80]
-[11:57:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/137963, l='ServerLevel[world]', x=-1556.40, y=79.00, z=-740.73]
-[11:58:12] [Server thread/INFO]: <TwoMinuteMoodles> wait
-[11:58:13] [Server thread/INFO]: <TwoMinuteMoodles> for me
-[11:58:25] [Server thread/INFO]: <TwoMinuteMoodles> do you have cobble onu
-[11:58:37] [Server thread/INFO]: <TwoMinuteMoodles> ill bring 2
-[11:58:40] [Server thread/INFO]: <TwoMinuteMoodles> i wnt to show u something
-[11:58:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/138253, l='ServerLevel[world]', x=-1557.26, y=79.00, z=-737.65]
-[11:59:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/138459, l='ServerLevel[world]', x=-1558.09, y=79.00, z=-739.14]
-[11:59:19] [Server thread/INFO]: <TwoMinuteMoodles> where u
-[11:59:30] [Server thread/INFO]: <TwoMinuteMoodles> give me 1 min
-[11:59:32] [Server thread/INFO]: <TwoMinuteMoodles> also
-[11:59:39] [Server thread/INFO]: <TwoMinuteMoodles> did u see the armory
-[11:59:47] [Server thread/INFO]: <TwoMinuteMoodles> did u take tools
-[11:59:50] [Server thread/INFO]: <TwoMinuteMoodles> that u wanted
-[11:59:55] [Server thread/INFO]: <TwoMinuteMoodles> there are much better shit
-[11:59:57] [Server thread/INFO]: <TwoMinuteMoodles> go take a look
-[12:00:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/138794, l='ServerLevel[world]', x=-1558.38, y=79.00, z=-743.39]
-[12:01:11] [Server thread/INFO]: <TwoMinuteMoodles> there is
-[12:01:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/139123, l='ServerLevel[world]', x=-1555.78, y=79.00, z=-739.83]
-[12:01:51] [Server thread/INFO]: <TwoMinuteMoodles> Sweeping Edge 3 Unbreaking 3 BoA 4
-[12:01:59] [Server thread/INFO]: <TwoMinuteMoodles> and Knockback 2 diamond sword
-[12:02:03] [Server thread/INFO]: <TwoMinuteMoodles> AOE dmg
-[12:02:06] [Server thread/INFO]: <TwoMinuteMoodles> thats 1 sword
-[12:02:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/139334, l='ServerLevel[world]', x=-1561.80, y=79.00, z=-739.80]
-[12:02:18] [Server thread/INFO]: <TwoMinuteMoodles> there is sharpness 3 unbreaking 3 fire aspect 2
-[12:02:38] [Server thread/INFO]: <TwoMinuteMoodles> fortune 2 unbreaking 2 can combine it with an efficiency pickaxe
-[12:03:11] [Server thread/INFO]: <TwoMinuteMoodles> coming
-[12:04:03] [Server thread/INFO]: <TwoMinuteMoodles> lay with me
-[12:05:41] [Server thread/INFO]: <TwoMinuteMoodles> LOL
-[12:05:59] [Server thread/INFO]: <TwoMinuteMoodles> heres cobble at the end
-[12:10:55] [Server thread/INFO]: <TwoMinuteMoodles> dont run away
-[12:10:56] [Server thread/INFO]: <TwoMinuteMoodles> u need to wait
-[12:11:00] [Server thread/INFO]: <TwoMinuteMoodles> to collect the xp orbs
-[12:12:40] [Server thread/INFO]: <TwoMinuteMoodles> what resources we getting from nther
-[12:12:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/145077, l='ServerLevel[world]', x=-1553.93, y=79.00, z=-737.73]
-[12:12:57] [Server thread/INFO]: <TwoMinuteMoodles> upgrade ur tools first
-[12:12:59] [Server thread/INFO]: <TwoMinuteMoodles> what u packing
-[12:13:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/145240, l='ServerLevel[world]', x=-1558.26, y=80.00, z=-737.71]
-[12:13:17] [Server thread/INFO]: <TwoMinuteMoodles> get fortune
-[12:13:21] [Server thread/INFO]: <TwoMinuteMoodles> if ur getting quartz
-[12:13:24] [Server thread/INFO]: <TwoMinuteMoodles> theres a fortune pik in armory
-[12:13:42] [Server thread/INFO]: <TwoMinuteMoodles> take some pearls with u
-[12:14:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/145490, l='ServerLevel[world]', x=-1557.71, y=79.00, z=-743.80]
-[12:14:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/145490, l='ServerLevel[world]', x=-1557.71, y=79.00, z=-743.80]
-[12:14:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/145581, l='ServerLevel[world]', x=-1559.26, y=80.00, z=-737.20]
-[12:14:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/145581, l='ServerLevel[world]', x=-1559.26, y=80.00, z=-737.20]
-[12:14:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/145608, l='ServerLevel[world]', x=-1559.33, y=79.00, z=-743.80]
-[12:14:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/145608, l='ServerLevel[world]', x=-1559.33, y=79.00, z=-743.80]
-[12:15:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/146003, l='ServerLevel[world]', x=-1559.80, y=79.00, z=-742.81]
-[12:15:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/146096, l='ServerLevel[world]', x=-1557.66, y=79.00, z=-738.92]
-[12:17:21] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/146684, l='ServerLevel[world]', x=-1554.70, y=79.00, z=-740.80]
-[12:17:49] [Server thread/INFO]: <TwoMinuteMoodles> check out my blade
-[12:17:52] [Server thread/INFO]: <TwoMinuteMoodles> where u
-[12:17:56] [Server thread/INFO]: <TwoMinuteMoodles> wow
-[12:17:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/146863, l='ServerLevel[world]', x=-1556.07, y=79.00, z=-742.43]
-[12:17:59] [Server thread/INFO]: <TwoMinuteMoodles> thanks for waiting
-[12:18:07] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[12:18:58] [Server thread/INFO]: <TwoMinuteMoodles> left and then
-[12:19:54] [Server thread/INFO]: <TwoMinuteMoodles> i dont see u
-[12:20:01] [Server thread/INFO]: <LUJEFX> -346
-[12:20:05] [Server thread/INFO]: <LUJEFX> -218
-[12:20:14] [Server thread/INFO]: <TwoMinuteMoodles> y?
-[12:20:18] [Server thread/INFO]: <LUJEFX> 38
-[12:24:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-292, y=37, z=-126} fx{x=-292, y=37, z=-127}
-[12:24:58] [User Authenticator #29/INFO]: UUID of player god_desu is 70e8a532-b20f-475e-af80-856c6efaadf6
-[12:24:58] [Server thread/INFO]: god_desu[/197.185.104.44:16645] logged in with entity id 148489 at (196.96745878392815, 76.0, -459.1937770021753)
-[12:24:58] [Server thread/INFO]: god_desu joined the game
-[12:25:08] [Server thread/INFO]: <TwoMinuteMoodles> if u wanna do something
-[12:25:11] [Server thread/INFO]: <TwoMinuteMoodles> to celebrate ur new car
-[12:25:12] [Server thread/INFO]: <TwoMinuteMoodles> let me know
-[12:25:17] [Server thread/INFO]: <TwoMinuteMoodles> huh?
-[12:25:43] [Server thread/INFO]: <TwoMinuteMoodles> i cant hear u boss
-[12:26:19] [Server thread/INFO]: <TwoMinuteMoodles> sure
-[12:26:24] [Server thread/INFO]: <TwoMinuteMoodles> yeah
-[12:26:25] [Server thread/INFO]: <TwoMinuteMoodles> say again
-[12:26:28] [Server thread/INFO]: <TwoMinuteMoodles> if u wanna do something
-[12:26:43] [Server thread/INFO]: <TwoMinuteMoodles> before when
-[12:27:03] [Server thread/INFO]: <TwoMinuteMoodles> yeah keen
-[12:27:09] [Server thread/INFO]: <TwoMinuteMoodles> maybe we go out for a few beers
-[12:27:11] [Server thread/INFO]: <TwoMinuteMoodles> or just park off
-[12:27:13] [Server thread/INFO]: <TwoMinuteMoodles> invite josh
-[12:27:30] [Server thread/INFO]: <TwoMinuteMoodles> LOL
-[12:28:05] [Server thread/INFO]: <TwoMinuteMoodles> he said
-[12:28:09] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/150157, l='ServerLevel[world]', x=-278.86, y=73.22, z=17.27]
-[12:28:09] [Server thread/INFO]: <TwoMinuteMoodles> if we do something over 3 or 4 days
-[12:28:11] [Server thread/INFO]: <TwoMinuteMoodles> he'll pull up
-[12:28:41] [Server thread/INFO]: <TwoMinuteMoodles> have u taken her out for a spin yet
-[12:29:13] [Server thread/INFO]: god_desu lost connection: Timed out
-[12:29:13] [Server thread/INFO]: god_desu left the game
-[12:31:39] [Server thread/INFO]: <TwoMinuteMoodles> how much quartz u get
-[12:31:48] [Server thread/INFO]: <TwoMinuteMoodles> of ore?
-[12:31:57] [Server thread/INFO]: <TwoMinuteMoodles> that wont do anything
-[12:32:00] [Server thread/INFO]: <TwoMinuteMoodles> thats 2 and a half stacks
-[12:32:09] [Server thread/INFO]: <TwoMinuteMoodles> im still getting black stone
-[12:34:35] [Server thread/INFO]: <TwoMinuteMoodles> did u get conf on ur date yet
-[12:34:42] [Server thread/INFO]: <TwoMinuteMoodles> when will they tell u
-[12:38:13] [Server thread/INFO]: LUJEFX lost connection: Disconnected
-[12:38:13] [Server thread/INFO]: LUJEFX left the game
-[12:38:56] [Server thread/INFO]: TwoMinuteMoodles lost connection: Disconnected
-[12:38:56] [Server thread/INFO]: TwoMinuteMoodles left the game
-[14:19:43] [User Authenticator #30/INFO]: UUID of player LUJEFX is 2d10997b-9e1a-4cff-8133-e4593a8ff793
-[14:19:43] [Server thread/INFO]: LUJEFX[/197.94.93.136:50301] logged in with entity id 153741 at (-185.69999476838484, 71.0, -56.104011256220886)
-[14:19:43] [Server thread/INFO]: LUJEFX joined the game
-[14:23:04] [User Authenticator #31/INFO]: UUID of player TwoMinuteMoodles is da149619-25d7-4577-86fa-b5d0d95ebfa6
-[14:23:04] [Server thread/INFO]: TwoMinuteMoodles[/41.115.95.47:7024] logged in with entity id 154304 at (-305.22128679388265, 33.0, -217.27857842079428)
-[14:23:04] [Server thread/INFO]: TwoMinuteMoodles joined the game
-[14:23:24] [Server thread/INFO]: <TwoMinuteMoodles> a yung nigga doth appear
-[14:23:34] [Server thread/INFO]: <TwoMinuteMoodles> this stekkie
-[14:23:39] [Server thread/INFO]: <TwoMinuteMoodles> she giving a nigga hella mixed signals
-[14:23:55] [Server thread/INFO]: <TwoMinuteMoodles> i just want her to suck on my beans
-[14:24:58] [Server thread/INFO]: <TwoMinuteMoodles> i dug out a neat spce here
-[14:25:05] [Server thread/INFO]: <TwoMinuteMoodles> would be a sick place to set up base
-[14:27:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-338, y=72, z=-4} fx{x=-326, y=80, z=20}
-[14:27:00] [Server thread/INFO]: <TwoMinuteMoodles> luke
-[14:27:05] [Server thread/INFO]: <TwoMinuteMoodles> do you have any shulker shells
-[14:27:12] [Server thread/INFO]: <TwoMinuteMoodles> we need to get some
-[14:29:49] [Server thread/INFO]: <TwoMinuteMoodles> do u watch dream
-[14:29:59] [Server thread/INFO]: <TwoMinuteMoodles> the miencraft youtuber
-[14:30:04] [Server thread/INFO]: <TwoMinuteMoodles> hes so fucking entertaining
-[14:30:17] [Server thread/INFO]: <TwoMinuteMoodles> its like sort of races to finish the game
-[14:30:27] [Server thread/INFO]: <TwoMinuteMoodles> he speed runs the game in 22 minutes
-[14:30:35] [Server thread/INFO]: <TwoMinuteMoodles> i think thats his record
-[14:30:41] [Server thread/INFO]: <TwoMinuteMoodles> hes finished the game in 22 minutes
-[14:30:44] [Server thread/INFO]: <TwoMinuteMoodles> all accomplishments
-[14:30:54] [Server thread/INFO]: <TwoMinuteMoodles> but what he does is
-[14:30:57] [Server thread/INFO]: <TwoMinuteMoodles> he invites people
-[14:30:58] [Server thread/INFO]: <TwoMinuteMoodles> like 3 people
-[14:31:01] [Server thread/INFO]: <TwoMinuteMoodles> and they form a team
-[14:31:05] [Server thread/INFO]: <TwoMinuteMoodles> and they have to beat him
-[14:31:09] [Server thread/INFO]: <TwoMinuteMoodles> and pvp is on
-[14:31:10] [Server thread/INFO]: <TwoMinuteMoodles> and the outplays
-[14:31:12] [Server thread/INFO]: <TwoMinuteMoodles> are fucking insane
-[14:31:34] [Server thread/INFO]: <TwoMinuteMoodles> can u do me a fav
-[14:31:43] [Server thread/INFO]: <TwoMinuteMoodles> can u open google
-[14:31:49] [Server thread/INFO]: <TwoMinuteMoodles> and see what levels ancient runes are t
-[14:32:03] [Server thread/INFO]: <TwoMinuteMoodles> also whats ur coords
-[14:32:09] [Server thread/INFO]: <LUJEFX> -298 -175
-[14:32:48] [Server thread/INFO]: <TwoMinuteMoodles> yes?
-[14:32:52] [Server thread/INFO]: <TwoMinuteMoodles> ancient runes in the nether
-[14:32:52] [Server thread/INFO]: <TwoMinuteMoodles> yes
-[14:32:56] [Server thread/INFO]: <TwoMinuteMoodles> yes
-[14:32:58] [Server thread/INFO]: <TwoMinuteMoodles> XD
-[14:33:48] [Server thread/INFO]: <TwoMinuteMoodles> here
-[14:33:56] [Server thread/INFO]: <TwoMinuteMoodles> oi
-[14:34:02] [Server thread/INFO]: <TwoMinuteMoodles> return it
-[14:34:09] [Server thread/INFO]: <TwoMinuteMoodles> when ur done
-[14:35:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-327, y=52, z=-165} fx{x=-327, y=50, z=-165}
-[14:35:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-328, y=48, z=-161} fx{x=-329, y=49, z=-161}
-[14:35:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-329, y=51, z=-165} fx{x=-329, y=52, z=-164}
-[14:35:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-326, y=21, z=-161} fx{x=-325, y=20, z=-162}
-[14:35:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-325, y=20, z=-161} fx{x=-326, y=19, z=-161}
-[14:37:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-349, y=12, z=-148} fx{x=-350, y=11, z=-149}
-[14:37:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-350, y=11, z=-143} fx{x=-349, y=10, z=-142}
-[14:37:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-350, y=11, z=-143} fx{x=-349, y=10, z=-142}
-[14:37:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-350, y=11, z=-143} fx{x=-349, y=10, z=-142}
-[14:37:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-350, y=11, z=-143} fx{x=-349, y=10, z=-142}
-[14:37:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-350, y=11, z=-143} fx{x=-349, y=10, z=-142}
-[14:37:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-344, y=12, z=-132} fx{x=-344, y=13, z=-132}
-[14:38:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-327, y=12, z=-132} fx{x=-328, y=13, z=-132}
-[14:38:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-327, y=12, z=-132} fx{x=-328, y=13, z=-132}
-[14:38:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-323, y=13, z=-126} fx{x=-323, y=13, z=-127}
-[14:38:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-323, y=14, z=-125} fx{x=-323, y=14, z=-126}
-[14:38:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-323, y=14, z=-125} fx{x=-323, y=14, z=-126}
-[14:38:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-323, y=14, z=-125} fx{x=-323, y=14, z=-126}
-[14:38:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-323, y=14, z=-125} fx{x=-323, y=14, z=-126}
-[14:38:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-323, y=14, z=-125} fx{x=-323, y=14, z=-126}
-[14:38:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-323, y=14, z=-125} fx{x=-323, y=14, z=-126}
-[14:38:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-323, y=15, z=-123} fx{x=-323, y=15, z=-124}
-[14:38:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-323, y=15, z=-123} fx{x=-323, y=15, z=-121}
-[14:38:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-324, y=16, z=-119} fx{x=-326, y=15, z=-120}
-[14:39:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-343, y=15, z=-116} fx{x=-342, y=14, z=-116}
-[14:39:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-343, y=15, z=-116} fx{x=-342, y=14, z=-116}
-[14:39:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-347, y=14, z=-119} fx{x=-347, y=13, z=-118}
-[14:39:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-347, y=14, z=-119} fx{x=-347, y=13, z=-118}
-[14:40:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-367, y=8, z=-130} fx{x=-367, y=8, z=-129}
-[14:40:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-367, y=9, z=-131} fx{x=-367, y=9, z=-130}
-[14:40:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-379, y=11, z=-124} fx{x=-378, y=10, z=-124}
-[14:40:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-379, y=11, z=-124} fx{x=-378, y=10, z=-124}
-[14:40:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-378, y=10, z=-124} fx{x=-379, y=10, z=-124}
-[14:41:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-383, y=10, z=-129} fx{x=-390, y=14, z=-127}
-[14:41:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-392, y=14, z=-127} fx{x=-395, y=14, z=-127}
-[14:41:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-392, y=14, z=-127} fx{x=-394, y=15, z=-127}
-[14:41:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-403, y=18, z=-120} fx{x=-404, y=17, z=-120}
-[14:41:55] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-410, y=21, z=-120} fx{x=-410, y=20, z=-119}
-[14:42:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-413, y=21, z=-117} fx{x=-415, y=18, z=-117}
-[14:42:27] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-421, y=21, z=-115} fx{x=-421, y=22, z=-115}
-[14:42:36] [Server thread/INFO]: <TwoMinuteMoodles> i can make 3 netherite tools
-[14:43:13] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-403, y=18, z=-106} fx{x=-402, y=18, z=-106}
-[14:43:21] [Server thread/INFO]: <TwoMinuteMoodles> 4
-[14:45:10] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[14:46:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/162190, l='ServerLevel[world]', x=-1556.82, y=79.00, z=-738.15]
-[14:47:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/162495, l='ServerLevel[world]', x=-1554.52, y=79.00, z=-737.85]
-[14:48:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/162561, l='ServerLevel[world]', x=-1559.94, y=79.00, z=-741.11]
-[14:48:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/162587, l='ServerLevel[world]', x=-1560.80, y=79.00, z=-740.42]
-[14:48:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/162663, l='ServerLevel[world]', x=-1561.31, y=79.00, z=-739.80]
-[14:50:37] [Server thread/INFO]: <TwoMinuteMoodles> fuck me these ender pearls are so useful
-[14:53:55] [Server thread/INFO]: <TwoMinuteMoodles> fucking love the ender pearls
-[14:54:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/163966, l='ServerLevel[world]', x=-1556.94, y=79.00, z=-737.68]
-[14:54:22] [Server thread/INFO]: <TwoMinuteMoodles> did u put the blackstone back
-[14:54:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/164041, l='ServerLevel[world]', x=-1557.06, y=79.00, z=-739.71]
-[14:54:39] [Server thread/INFO]: <TwoMinuteMoodles> from nether?
-[14:54:43] [Server thread/INFO]: <TwoMinuteMoodles> dont use that wood its ass
-[14:54:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/164145, l='ServerLevel[world]', x=-1558.85, y=79.00, z=-739.55]
-[14:54:55] [Server thread/INFO]: <TwoMinuteMoodles> there are 2 stacks of wood
-[14:54:59] [Server thread/INFO]: <TwoMinuteMoodles> we also need to light up areas around the base
-[14:55:32] [Server thread/INFO]: <TwoMinuteMoodles> we need to set up a meth lab
-[14:55:36] [Server thread/INFO]: <TwoMinuteMoodles> to brew potions
-[14:55:55] [Server thread/INFO]: <TwoMinuteMoodles> im gonna go get quartz for the next 30 minutes
-[14:55:58] [Server thread/INFO]: <TwoMinuteMoodles> give me that shulker box
-[14:56:01] [Server thread/INFO]: <TwoMinuteMoodles> will try and fill them up
-[14:56:38] [Server thread/INFO]: <TwoMinuteMoodles> always keep some ender pearls on u
-[14:56:39] [Server thread/INFO]: <TwoMinuteMoodles> for travl
-[14:57:21] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/164791, l='ServerLevel[world]', x=-1560.18, y=79.00, z=-738.78]
-[14:57:21] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/164791, l='ServerLevel[world]', x=-1560.18, y=79.00, z=-738.78]
-[14:57:43] [Server thread/INFO]: LUJEFX lost connection: Disconnected
-[14:57:43] [Server thread/INFO]: LUJEFX left the game
-[14:59:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/165083, l='ServerLevel[world]', x=-1556.12, y=79.00, z=-741.83]
-[14:59:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/165101, l='ServerLevel[world]', x=-1556.84, y=79.00, z=-740.66]
-[14:59:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/165124, l='ServerLevel[world]', x=-1555.20, y=80.00, z=-743.92]
-[15:02:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/165491, l='ServerLevel[world]', x=-1555.14, y=80.00, z=-744.35]
-[15:03:08] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/165546, l='ServerLevel[world]', x=-1554.20, y=79.00, z=-739.32]
-[15:03:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/165648, l='ServerLevel[world]', x=-1559.80, y=80.00, z=-737.70]
-[15:06:06] [User Authenticator #32/INFO]: UUID of player LUJEFX is 2d10997b-9e1a-4cff-8133-e4593a8ff793
-[15:06:07] [Server thread/INFO]: LUJEFX[/197.94.93.136:50726] logged in with entity id 165929 at (-1631.165512301304, 112.0, -712.0242355095243)
-[15:06:07] [Server thread/INFO]: LUJEFX joined the game
-[15:06:16] [Server thread/INFO]: <TwoMinuteMoodles> i left a gift for u in ur shulker box
-[15:07:03] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/166046, l='ServerLevel[world]', x=-1555.20, y=80.00, z=-743.92]
-[15:07:03] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/166046, l='ServerLevel[world]', x=-1555.20, y=80.00, z=-743.92]
-[15:08:40] [Server thread/INFO]: <TwoMinuteMoodles> oi
-[15:08:40] [Server thread/INFO]: <TwoMinuteMoodles> here
-[15:09:22] [Server thread/INFO]: <TwoMinuteMoodles> keep some on u
-[15:09:26] [Server thread/INFO]: <TwoMinuteMoodles> pretty hand
-[15:10:30] [Server thread/INFO]: <TwoMinuteMoodles> i saw
-[15:10:31] [Server thread/INFO]: <TwoMinuteMoodles> xd
-[15:10:49] [Server thread/INFO]: <TwoMinuteMoodles> gonna go get some quartz
-[15:11:02] [Server thread/INFO]: <TwoMinuteMoodles> sure
-[15:11:05] [Server thread/INFO]: <TwoMinuteMoodles> but after that
-[15:11:09] [Server thread/INFO]: <TwoMinuteMoodles> i wanna work on the expansio
-[15:11:28] [Server thread/INFO]: <TwoMinuteMoodles> -200 -60
-[15:12:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-173, y=57, z=5} fx{x=-173, y=59, z=5}
-[15:12:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-173, y=57, z=5} fx{x=-173, y=57, z=4}
-[15:13:32] [Server thread/INFO]: <TwoMinuteMoodles> huh?
-[15:13:41] [Server thread/INFO]: <TwoMinuteMoodles> like
-[15:14:17] [Server thread/INFO]: <TwoMinuteMoodles> u cna leave 1
-[15:14:25] [Server thread/INFO]: <TwoMinuteMoodles> might need 1 there
-[15:14:55] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-247, y=35, z=11} fx{x=-246, y=34, z=11}
-[15:15:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-249, y=34, z=24} fx{x=-249, y=33, z=23}
-[15:15:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-244, y=34, z=27} fx{x=-245, y=35, z=27}
-[15:15:52] [Server thread/INFO]: <TwoMinuteMoodles> fuck me the xp farm is so efficient
-[15:15:59] [Server thread/INFO]: <TwoMinuteMoodles> endermite
-[15:16:10] [Server thread/INFO]: <TwoMinuteMoodles> they get aggro
-[15:16:12] [Server thread/INFO]: <TwoMinuteMoodles> over endermites
-[15:16:16] [Server thread/INFO]: <TwoMinuteMoodles> so i put it over the hole
-[15:16:22] [Server thread/INFO]: <TwoMinuteMoodles> and they just run at it
-[15:16:26] [Server thread/INFO]: <TwoMinuteMoodles> its out of reach
-[15:16:30] [Server thread/INFO]: <TwoMinuteMoodles> they just run at it
-[15:16:33] [Server thread/INFO]: <TwoMinuteMoodles> and fall in
-[15:16:41] [Server thread/INFO]: <TwoMinuteMoodles> its ina minecart
-[15:16:43] [Server thread/INFO]: <TwoMinuteMoodles> used a name tag
-[15:16:50] [Server thread/INFO]: <TwoMinuteMoodles> guess
-[15:16:56] [Server thread/INFO]: <TwoMinuteMoodles> no
-[15:17:02] [Server thread/INFO]: <TwoMinuteMoodles> X
-[15:17:04] [Server thread/INFO]: <TwoMinuteMoodles> D
-[15:17:15] [Server thread/INFO]: <TwoMinuteMoodles> nigger faggot
-[15:17:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-229, y=33, z=37} fx{x=-227, y=33, z=36}
-[15:17:39] [Server thread/INFO]: <TwoMinuteMoodles> being edgy is so appealing again
-[15:17:45] [Server thread/INFO]: <TwoMinuteMoodles> because of butthurt softies
-[15:17:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-229, y=23, z=21} fx{x=-229, y=22, z=20}
-[15:19:15] [Server thread/INFO]: <TwoMinuteMoodles> dont think so
-[15:19:26] [Server thread/INFO]: <TwoMinuteMoodles> how many
-[15:19:51] [Server thread/INFO]: <TwoMinuteMoodles> nice
-[15:19:52] [Server thread/INFO]: <TwoMinuteMoodles> i can see it
-[15:19:56] [Server thread/INFO]: <TwoMinuteMoodles> use glass panes
-[15:21:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-193, y=14, z=-6} fx{x=-196, y=13, z=-10}
-[15:21:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-193, y=14, z=-6} fx{x=-195, y=14, z=-9}
-[15:21:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-189, y=13, z=-40} fx{x=-190, y=14, z=-40}
-[15:21:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-189, y=13, z=-40} fx{x=-190, y=14, z=-40}
-[15:21:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-189, y=13, z=-40} fx{x=-190, y=14, z=-40}
-[15:21:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-189, y=13, z=-40} fx{x=-190, y=14, z=-40}
-[15:22:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-157, y=12, z=-41} fx{x=-156, y=13, z=-41}
-[15:22:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-150, y=15, z=-42} fx{x=-141, y=15, z=-42}
-[15:22:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-129, y=13, z=-43} fx{x=-128, y=12, z=-44}
-[15:23:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-114, y=12, z=-33} fx{x=-114, y=12, z=-32}
-[15:23:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=15, z=-35} fx{x=-110, y=15, z=-35}
-[15:23:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=15, z=-35} fx{x=-111, y=15, z=-35}
-[15:23:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-108, y=16, z=-35} fx{x=-107, y=16, z=-35}
-[15:23:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-108, y=16, z=-35} fx{x=-107, y=16, z=-35}
-[15:23:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-108, y=16, z=-35} fx{x=-106, y=16, z=-35}
-[15:24:23] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-91, y=14, z=-31} fx{x=-87, y=16, z=-31}
-[15:24:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-86, y=16, z=-31} fx{x=-88, y=17, z=-31}
-[15:24:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-86, y=16, z=-31} fx{x=-88, y=17, z=-31}
-[15:24:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-86, y=16, z=-31} fx{x=-88, y=17, z=-31}
-[15:24:27] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-86, y=16, z=-31} fx{x=-88, y=17, z=-31}
-[15:24:27] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-86, y=16, z=-31} fx{x=-88, y=17, z=-31}
-[15:24:27] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-86, y=16, z=-31} fx{x=-88, y=17, z=-31}
-[15:24:27] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-86, y=16, z=-31} fx{x=-88, y=17, z=-31}
-[15:24:27] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-82, y=17, z=-29} fx{x=-84, y=18, z=-29}
-[15:24:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-82, y=17, z=-29} fx{x=-84, y=18, z=-30}
-[15:24:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-84, y=18, z=-30} fx{x=-85, y=18, z=-30}
-[15:24:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-80, y=21, z=-28} fx{x=-80, y=19, z=-28}
-[15:24:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-80, y=21, z=-28} fx{x=-80, y=20, z=-28}
-[15:24:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-79, y=19, z=-22} fx{x=-80, y=18, z=-19}
-[15:25:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-78, y=17, z=-15} fx{x=-78, y=16, z=-15}
-[15:25:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-78, y=17, z=-15} fx{x=-78, y=20, z=-14}
-[15:27:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-83, y=27, z=-12} fx{x=-83, y=28, z=-17}
-[15:27:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-83, y=31, z=-22} fx{x=-83, y=31, z=-21}
-[15:27:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-83, y=31, z=-22} fx{x=-83, y=31, z=-21}
-[15:27:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-83, y=31, z=-22} fx{x=-83, y=31, z=-21}
-[15:27:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-83, y=31, z=-22} fx{x=-83, y=31, z=-21}
-[15:27:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-83, y=31, z=-22} fx{x=-83, y=31, z=-21}
-[15:27:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-83, y=31, z=-34} fx{x=-83, y=30, z=-33}
-[15:27:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-83, y=37, z=-47} fx{x=-83, y=35, z=-47}
-[15:28:27] [Server thread/INFO]: <TwoMinuteMoodles> did u start building a random highway extension
-[15:30:18] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[15:30:19] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[15:30:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-784, y=40, z=-397} fx{x=-784, y=41, z=-394}
-[15:31:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-795, y=47, z=-386} fx{x=-796, y=50, z=-385}
-[15:31:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-796, y=50, z=-386} fx{x=-796, y=51, z=-385}
-[15:31:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-796, y=51, z=-385} fx{x=-796, y=50, z=-384}
-[15:31:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-796, y=51, z=-383} fx{x=-796, y=51, z=-384}
-[15:31:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-797, y=51, z=-385} fx{x=-797, y=50, z=-386}
-[15:31:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-799, y=50, z=-385} fx{x=-798, y=49, z=-385}
-[15:31:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-799, y=50, z=-385} fx{x=-798, y=49, z=-385}
-[15:31:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-799, y=50, z=-385} fx{x=-798, y=49, z=-385}
-[15:31:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-799, y=50, z=-385} fx{x=-798, y=49, z=-385}
-[15:31:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-799, y=50, z=-385} fx{x=-798, y=49, z=-385}
-[15:31:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-799, y=50, z=-385} fx{x=-798, y=49, z=-385}
-[15:31:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-799, y=50, z=-385} fx{x=-798, y=49, z=-385}
-[15:31:13] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-799, y=50, z=-385} fx{x=-798, y=49, z=-385}
-[15:31:13] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-799, y=50, z=-385} fx{x=-798, y=49, z=-385}
-[15:31:23] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/177531, l='ServerLevel[world]', x=-1554.20, y=80.00, z=-742.04]
-[15:31:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-795, y=41, z=-396} fx{x=-795, y=40, z=-393}
-[15:31:41] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[15:31:43] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[15:31:45] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[15:31:48] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[15:32:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/178780, l='ServerLevel[world]', x=-1559.85, y=79.00, z=-740.00]
-[15:32:38] [Server thread/WARN]: TwoMinuteMoodles moved too quickly! 10.309925516016051,0.0,8.021844539452616
-[15:32:43] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[15:32:44] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[15:32:56] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
-[15:34:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/180047, l='ServerLevel[world]', x=-1560.32, y=80.00, z=-743.39]
-[15:34:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/180047, l='ServerLevel[world]', x=-1560.32, y=80.00, z=-743.39]
-[15:34:38] [Server thread/INFO]: <TwoMinuteMoodles> i left the sand in that chest
-[15:35:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/180198, l='ServerLevel[world]', x=-1559.85, y=79.00, z=-739.51]
-[15:35:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/180198, l='ServerLevel[world]', x=-1559.85, y=79.00, z=-739.51]
-[15:35:33] [Server thread/INFO]: <TwoMinuteMoodles> im gonna start excavating right
-[15:35:41] [Server thread/INFO]: <TwoMinuteMoodles> deeper into the moutntain
-[15:35:45] [Server thread/INFO]: <TwoMinuteMoodles> where i dug that hoke
-[15:36:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/180443, l='ServerLevel[world]', x=-1554.59, y=79.00, z=-738.24]
-[15:36:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/180443, l='ServerLevel[world]', x=-1554.59, y=79.00, z=-738.24]
-[15:36:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/180458, l='ServerLevel[world]', x=-1555.58, y=79.00, z=-739.35]
-[15:36:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/180458, l='ServerLevel[world]', x=-1555.58, y=79.00, z=-739.35]
-[15:37:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/180756, l='ServerLevel[world]', x=-1561.38, y=80.00, z=-742.08]
-[15:38:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/181010, l='ServerLevel[world]', x=-1561.80, y=80.00, z=-742.80]
-[15:38:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/181010, l='ServerLevel[world]', x=-1561.80, y=80.00, z=-742.80]
-[15:38:35] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/181025, l='ServerLevel[world]', x=-1554.20, y=79.00, z=-739.87]
-[15:38:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/181074, l='ServerLevel[world]', x=-1554.61, y=79.00, z=-739.60]
-[15:38:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/181074, l='ServerLevel[world]', x=-1554.61, y=79.00, z=-739.60]
-[15:39:08] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/181143, l='ServerLevel[world]', x=-1554.20, y=79.00, z=-739.25]
-[15:39:08] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/181143, l='ServerLevel[world]', x=-1554.20, y=79.00, z=-739.25]
-[15:40:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1650, y=114, z=-700} fx{x=-1649, y=112, z=-700}
-[15:40:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1648, y=113, z=-701} fx{x=-1646, y=111, z=-701}
-[15:40:36] [Server thread/INFO]: <TwoMinuteMoodles> what did u say about the extension
-[15:40:43] [Server thread/INFO]: <TwoMinuteMoodles> you wouldnt mind it sticking out the mntnt
-[15:40:45] [Server thread/INFO]: <TwoMinuteMoodles> right?
-[15:40:54] [Server thread/INFO]: LUJEFX fell from a high place
-[15:40:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/181769, l='ServerLevel[world]', x=-1640.13, y=112.11, z=-700.17]
-[15:41:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/181847, l='ServerLevel[world]', x=-1556.93, y=79.00, z=-741.64]
-[15:41:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/181847, l='ServerLevel[world]', x=-1556.93, y=79.00, z=-741.64]
-[15:41:25] [Server thread/INFO]: <TwoMinuteMoodles> XD
-[15:41:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/181962, l='ServerLevel[world]', x=-1559.36, y=80.00, z=-744.26]
-[15:41:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/181962, l='ServerLevel[world]', x=-1559.36, y=80.00, z=-744.26]
-[15:43:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/182606, l='ServerLevel[world]', x=-1559.80, y=80.00, z=-744.37]
-[15:43:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/182606, l='ServerLevel[world]', x=-1559.80, y=80.00, z=-744.37]
-[15:43:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/182715, l='ServerLevel[world]', x=-1561.37, y=79.00, z=-739.20]
-[15:43:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/182715, l='ServerLevel[world]', x=-1561.37, y=79.00, z=-739.20]
-[15:44:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/182737, l='ServerLevel[world]', x=-1556.27, y=79.00, z=-739.41]
-[15:44:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/182737, l='ServerLevel[world]', x=-1556.27, y=79.00, z=-739.41]
-[15:46:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/183276, l='ServerLevel[world]', x=-1556.86, y=79.00, z=-740.31]
-[15:46:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/183276, l='ServerLevel[world]', x=-1556.86, y=79.00, z=-740.31]
-[15:47:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/183494, l='ServerLevel[world]', x=-1561.80, y=79.00, z=-739.20]
-[15:47:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/183494, l='ServerLevel[world]', x=-1561.80, y=79.00, z=-739.20]
-[15:48:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/183969, l='ServerLevel[world]', x=-1560.38, y=80.00, z=-742.46]
-[15:48:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/183969, l='ServerLevel[world]', x=-1560.38, y=80.00, z=-742.46]
-[15:48:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/184093, l='ServerLevel[world]', x=-1555.42, y=80.00, z=-745.80]
-[15:48:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/184093, l='ServerLevel[world]', x=-1555.42, y=80.00, z=-745.80]
-[15:50:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/184526, l='ServerLevel[world]', x=-1553.61, y=79.00, z=-738.80]
-[15:52:16] [Server thread/INFO]: LUJEFX lost connection: Disconnected
-[15:52:16] [Server thread/INFO]: LUJEFX left the game
-[15:52:41] [Server thread/INFO]: TwoMinuteMoodles lost connection: Disconnected
-[15:52:41] [Server thread/INFO]: TwoMinuteMoodles left the game
-[17:41:34] [Server thread/INFO]: Stopping server
-[17:41:34] [Server thread/INFO]: Saving players
-[17:41:34] [Server thread/INFO]: Saving worlds
-[17:41:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:41:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:41:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:41:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:41:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:41:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:41:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:41:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:41:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:59:42] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:59:42] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:59:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:59:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:59:42] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:59:42] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:59:42] [main/INFO]: Reloading ResourceManager: Default
+[17:59:43] [Worker-Main-2/INFO]: Loaded 7 recipes
+[17:59:43] [Worker-Main-2/INFO]: Loaded 927 advancements
+[17:59:46] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[17:59:46] [Server thread/INFO]: Loading properties
+[17:59:46] [Server thread/INFO]: Default game type: SURVIVAL
+[17:59:46] [Server thread/INFO]: Generating keypair
+[17:59:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:59:46] [Server thread/INFO]: Using epoll channel type
+[17:59:46] [Server thread/INFO]: Preparing level "world"
+[17:59:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:59:48] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:48] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:48] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:59:49] [Server thread/INFO]: Preparing spawn area: 68%
+[17:59:49] [Server thread/INFO]: Time elapsed: 2441 ms
+[17:59:49] [Server thread/INFO]: Done (2.546s)! For help, type "help"
+[18:02:03] [User Authenticator #1/INFO]: UUID of player god_desu is 70e8a532-b20f-475e-af80-856c6efaadf6
+[18:02:04] [Server thread/INFO]: god_desu[/197.185.97.16:41332] logged in with entity id 58 at (-1531.9470984637383, 74.79673560066871, -620.9599430371803)
+[18:02:04] [Server thread/INFO]: god_desu joined the game
+[18:04:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1208, l='ServerLevel[world]', x=-1559.80, y=80.00, z=-743.87]
+[18:04:51] [Server thread/INFO]: god_desu lost connection: Disconnected
+[18:04:51] [Server thread/INFO]: god_desu left the game
+[18:15:44] [User Authenticator #2/INFO]: UUID of player LUJEFX is 2d10997b-9e1a-4cff-8133-e4593a8ff793
+[18:15:44] [Server thread/INFO]: LUJEFX[/197.94.93.136:53456] logged in with entity id 1273 at (-1622.4835299163954, 105.0, -710.9675030034866)
+[18:15:44] [Server thread/INFO]: LUJEFX joined the game
+[18:16:35] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1981, l='ServerLevel[world]', x=-1558.39, y=79.00, z=-742.86]
+[18:16:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2028, l='ServerLevel[world]', x=-1555.20, y=79.00, z=-743.80]
+[18:18:03] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2168, l='ServerLevel[world]', x=-1559.91, y=79.00, z=-739.60]
+[18:19:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2378, l='ServerLevel[world]', x=-1560.80, y=79.00, z=-739.47]
+[18:20:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2682, l='ServerLevel[world]', x=-1558.28, y=79.00, z=-743.80]
+[18:20:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2726, l='ServerLevel[world]', x=-1555.09, y=80.00, z=-745.35]
+[18:21:49] [User Authenticator #3/INFO]: UUID of player TwoMinuteMoodles is da149619-25d7-4577-86fa-b5d0d95ebfa6
+[18:21:50] [Server thread/INFO]: TwoMinuteMoodles[/41.115.95.47:60035] logged in with entity id 2991 at (-1622.1471061738089, 105.0, -712.9765720881845)
+[18:21:50] [Server thread/INFO]: TwoMinuteMoodles joined the game
+[18:22:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3111, l='ServerLevel[world]', x=-1556.29, y=79.00, z=-740.48]
+[18:22:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3111, l='ServerLevel[world]', x=-1556.29, y=79.00, z=-740.48]
+[18:22:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3176, l='ServerLevel[world]', x=-1561.38, y=80.00, z=-742.80]
+[18:22:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3176, l='ServerLevel[world]', x=-1561.38, y=80.00, z=-742.80]
+[18:22:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3201, l='ServerLevel[world]', x=-1560.82, y=80.00, z=-741.11]
+[18:22:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3201, l='ServerLevel[world]', x=-1560.82, y=80.00, z=-741.11]
+[18:22:56] [Server thread/INFO]: <TwoMinuteMoodles> are e out of glowstone
+[18:23:05] [Server thread/INFO]: <TwoMinuteMoodles> how many
+[18:23:09] [Server thread/INFO]: <TwoMinuteMoodles> i dont need
+[18:23:10] [Server thread/INFO]: <TwoMinuteMoodles> im asking
+[18:23:13] [Server thread/INFO]: <TwoMinuteMoodles> incase i need to collect
+[18:24:30] [Server thread/INFO]: <TwoMinuteMoodles> owo
+[18:26:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4040, l='ServerLevel[world]', x=-1555.09, y=80.00, z=-745.35]
+[18:26:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4040, l='ServerLevel[world]', x=-1555.09, y=80.00, z=-745.35]
+[18:26:20] [Server thread/INFO]: <TwoMinuteMoodles> there was a helmet in the spares chest
+[18:26:23] [Server thread/INFO]: <TwoMinuteMoodles> u take it?
+[18:26:36] [Server thread/INFO]: <TwoMinuteMoodles> i mean its fine
+[18:26:39] [Server thread/INFO]: <TwoMinuteMoodles> im just asing
+[18:26:47] [Server thread/INFO]: <TwoMinuteMoodles> bc i dont know if i used to make another helmet
+[18:26:58] [Server thread/INFO]: <TwoMinuteMoodles> doesnt matter
+[18:27:03] [Server thread/INFO]: <TwoMinuteMoodles> if its in the armory its up for grabs
+[18:27:24] [Server thread/INFO]: <TwoMinuteMoodles> can get one
+[18:27:37] [Server thread/INFO]: <TwoMinuteMoodles> a what
+[18:28:39] [Server thread/INFO]: <TwoMinuteMoodles> dont think so
+[18:28:46] [Server thread/INFO]: <TwoMinuteMoodles> i used to have underground cows
+[18:28:51] [Server thread/INFO]: <TwoMinuteMoodles> in factions
+[18:28:55] [Server thread/INFO]: <TwoMinuteMoodles> no
+[18:29:00] [Server thread/INFO]: <TwoMinuteMoodles> but cow spawners need grass
+[18:29:10] [Server thread/INFO]: <TwoMinuteMoodles> ye
+[18:29:15] [Server thread/INFO]: <TwoMinuteMoodles> they need grass blocks to spawn
+[18:29:26] [Server thread/INFO]: <TwoMinuteMoodles> i mean if it doesnt spread
+[18:29:32] [Server thread/INFO]: <TwoMinuteMoodles> will just get more grass
+[18:30:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/5256, l='ServerLevel[world]', x=-1558.50, y=79.00, z=-740.11]
+[18:30:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/5256, l='ServerLevel[world]', x=-1558.50, y=79.00, z=-740.11]
+[18:31:52] [User Authenticator #4/INFO]: UUID of player god_desu is 70e8a532-b20f-475e-af80-856c6efaadf6
+[18:31:52] [Server thread/INFO]: god_desu[/197.185.104.44:4945] logged in with entity id 5515 at (-1611.73241546832, 112.0, -708.5688699494657)
+[18:31:52] [Server thread/INFO]: god_desu joined the game
+[18:32:43] [Server thread/INFO]: <TwoMinuteMoodles> theres an elytra for u
+[18:32:48] [Server thread/INFO]: <TwoMinuteMoodles> in the transport chest
+[18:32:51] [Server thread/INFO]: <TwoMinuteMoodles> just dont die with it
+[18:32:57] [Server thread/INFO]: <god_desu> "who cheated"
+[18:33:02] [Server thread/INFO]: <TwoMinuteMoodles> theyre extremely hard to get
+[18:33:10] [Server thread/INFO]: <TwoMinuteMoodles> check the chests
+[18:33:12] [Server thread/INFO]: <TwoMinuteMoodles> in the other room
+[18:33:23] [Server thread/INFO]: <TwoMinuteMoodles> go to the end look for fortresses
+[18:33:57] [Server thread/INFO]: <TwoMinuteMoodles> u can take an armour off the stand
+[18:33:58] [Server thread/INFO]: <TwoMinuteMoodles> if u need
+[18:33:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6024, l='ServerLevel[world]', x=-1558.08, y=79.00, z=-739.66]
+[18:33:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6024, l='ServerLevel[world]', x=-1558.08, y=79.00, z=-739.66]
+[18:34:10] [Server thread/INFO]: <TwoMinuteMoodles> just replace it with unenchanted armour
+[18:34:11] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6065, l='ServerLevel[world]', x=-1557.44, y=79.00, z=-742.36]
+[18:34:11] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6065, l='ServerLevel[world]', x=-1557.44, y=79.00, z=-742.36]
+[18:34:17] [Server thread/INFO]: <TwoMinuteMoodles> so when i come by i know to enchant it
+[18:34:27] [Server thread/INFO]: <TwoMinuteMoodles> you can leave an unenchanted counterpart in the armour chest
+[18:34:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6178, l='ServerLevel[world]', x=-1555.72, y=79.00, z=-741.20]
+[18:34:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6178, l='ServerLevel[world]', x=-1555.72, y=79.00, z=-741.20]
+[18:34:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6178, l='ServerLevel[world]', x=-1555.72, y=79.00, z=-741.20]
+[18:34:51] [Server thread/INFO]: <TwoMinuteMoodles> take an armour
+[18:34:52] [Server thread/INFO]: <TwoMinuteMoodles> u knob
+[18:34:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1502, y=66, z=-863} fx{x=-1502, y=64, z=-863}
+[18:34:55] [Server thread/INFO]: <TwoMinuteMoodles> armour set
+[18:35:03] [Server thread/INFO]: <TwoMinuteMoodles> from the armour stand XD
+[18:35:19] [Server thread/INFO]: <TwoMinuteMoodles> im gonna kill this guy
+[18:35:26] [Server thread/INFO]: <TwoMinuteMoodles> but hes not gonna spawn in the base
+[18:35:26] [Server thread/INFO]: <god_desu> im eating poes
+[18:35:30] [Server thread/INFO]: <TwoMinuteMoodles> oh yeah
+[18:35:33] [Server thread/INFO]: <TwoMinuteMoodles> go reset ur spawn point
+[18:35:36] [Server thread/INFO]: <TwoMinuteMoodles> rooms are upstairs
+[18:35:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6487, l='ServerLevel[world]', x=-1561.80, y=79.00, z=-739.80]
+[18:35:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6487, l='ServerLevel[world]', x=-1561.80, y=79.00, z=-739.80]
+[18:35:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6487, l='ServerLevel[world]', x=-1561.80, y=79.00, z=-739.80]
+[18:35:42] [Server thread/INFO]: <TwoMinuteMoodles> so if u die u come back here
+[18:35:46] [Server thread/INFO]: <TwoMinuteMoodles> up
+[18:35:48] [Server thread/INFO]: <TwoMinuteMoodles> stairs
+[18:35:56] [Server thread/INFO]: <TwoMinuteMoodles> upladder8
+[18:36:07] [Server thread/INFO]: <TwoMinuteMoodles> ur room is there
+[18:36:11] [Server thread/INFO]: <TwoMinuteMoodles> the one with the bong
+[18:36:18] [Server thread/INFO]: <TwoMinuteMoodles> get out of sallies bed
+[18:37:00] [Server thread/INFO]: <TwoMinuteMoodles> come to rudos corner
+[18:37:06] [Server thread/INFO]: <TwoMinuteMoodles> lets do some drugs
+[18:37:31] [Server thread/INFO]: <TwoMinuteMoodles> i have 31
+[18:37:39] [Server thread/INFO]: <TwoMinuteMoodles> come
+[18:38:07] [Server thread/INFO]: <TwoMinuteMoodles> take ur drugs luke
+[18:38:25] [Server thread/INFO]: <TwoMinuteMoodles> come back here luke
+[18:38:28] [Server thread/INFO]: <TwoMinuteMoodles> we're gonna do drugs
+[18:38:31] [Server thread/INFO]: <TwoMinuteMoodles> LUKE COME BAC
+[18:38:35] [Server thread/INFO]: <TwoMinuteMoodles> AND GIVE RUDO HIS DRUGS
+[18:39:02] [Server thread/INFO]: <TwoMinuteMoodles> give rudo poisonous potatoe
+[18:39:09] [Server thread/INFO]: <TwoMinuteMoodles> 3 for rudo
+[18:39:11] [Server thread/INFO]: <TwoMinuteMoodles> 2 for me
+[18:39:18] [Server thread/INFO]: <TwoMinuteMoodles> 3 for u luke
+[18:39:20] [Server thread/INFO]: <TwoMinuteMoodles> take ur armour off
+[18:39:32] [Server thread/INFO]: <TwoMinuteMoodles> come
+[18:39:34] [Server thread/INFO]: <TwoMinuteMoodles> lets do it
+[18:41:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7698, l='ServerLevel[world]', x=-1557.10, y=79.00, z=-739.42]
+[18:41:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7698, l='ServerLevel[world]', x=-1557.10, y=79.00, z=-739.42]
+[18:41:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7698, l='ServerLevel[world]', x=-1557.10, y=79.00, z=-739.42]
+[18:42:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8216, l='ServerLevel[world]', x=-1561.18, y=80.00, z=-738.52]
+[18:42:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8216, l='ServerLevel[world]', x=-1561.18, y=80.00, z=-738.52]
+[18:42:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8216, l='ServerLevel[world]', x=-1561.18, y=80.00, z=-738.52]
+[18:43:35] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8450, l='ServerLevel[world]', x=-1554.68, y=80.00, z=-745.39]
+[18:43:35] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8450, l='ServerLevel[world]', x=-1554.68, y=80.00, z=-745.39]
+[18:43:35] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8450, l='ServerLevel[world]', x=-1554.68, y=80.00, z=-745.39]
+[18:44:04] [Server thread/INFO]: <TwoMinuteMoodles> rudo
+[18:44:08] [Server thread/INFO]: <TwoMinuteMoodles> i have somethig ur gonna like
+[18:44:27] [Server thread/INFO]: TwoMinuteMoodles has made the advancement [Voluntary Exile]
+[18:45:48] [Server thread/INFO]: LUJEFX lost connection: Disconnected
+[18:45:48] [Server thread/INFO]: LUJEFX left the game
+[18:46:20] [User Authenticator #5/INFO]: UUID of player LUJEFX is 2d10997b-9e1a-4cff-8133-e4593a8ff793
+[18:46:20] [Server thread/INFO]: LUJEFX[/197.94.93.136:53510] logged in with entity id 9574 at (-1614.800000011921, 111.5, -705.6825036566275)
+[18:46:20] [Server thread/INFO]: LUJEFX joined the game
+[18:47:08] [Server thread/INFO]: god_desu lost connection: Timed out
+[18:47:08] [Server thread/INFO]: god_desu left the game
+[18:48:17] [Server thread/INFO]: LUJEFX lost connection: Timed out
+[18:48:17] [Server thread/INFO]: LUJEFX left the game
+[18:48:35] [User Authenticator #6/INFO]: UUID of player LUJEFX is 2d10997b-9e1a-4cff-8133-e4593a8ff793
+[18:48:35] [Server thread/INFO]: LUJEFX[/197.94.93.136:53536] logged in with entity id 10152 at (-1618.0862975098134, 105.0, -729.0784735891559)
+[18:48:35] [Server thread/INFO]: LUJEFX joined the game
+[18:48:46] [Server thread/INFO]: <TwoMinuteMoodles> luke
+[18:48:51] [Server thread/INFO]: <TwoMinuteMoodles> wher do i check my stasues
+[18:48:54] [Server thread/INFO]: <TwoMinuteMoodles> like poisoned and stuff
+[18:49:01] [Server thread/INFO]: <TwoMinuteMoodles> i cant hover over it
+[18:50:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10506, l='ServerLevel[world]', x=-1557.24, y=79.00, z=-740.81]
+[18:50:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10506, l='ServerLevel[world]', x=-1557.24, y=79.00, z=-740.81]
+[18:54:23] [Server thread/INFO]: <TwoMinuteMoodles> coem
+[18:54:37] [Server thread/INFO]: <TwoMinuteMoodles> come
+[18:55:28] [Server thread/WARN]: LUJEFX moved wrongly!
+[18:57:01] [Server thread/INFO]: <TwoMinuteMoodles> there was one
+[18:57:06] [Server thread/INFO]: <TwoMinuteMoodles> rudo took it and dc'd with it
+[18:58:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-156, y=64, z=-62} fx{x=-156, y=64, z=-63}
+[18:58:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-156, y=64, z=-62} fx{x=-156, y=64, z=-63}
+[19:00:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/14956, l='ServerLevel[world]', x=-1558.40, y=80.00, z=-744.77]
+[19:00:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/14956, l='ServerLevel[world]', x=-1558.40, y=80.00, z=-744.77]
+[19:04:23] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/15714, l='ServerLevel[world]', x=-1561.80, y=80.00, z=-741.94]
+[19:04:23] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/15714, l='ServerLevel[world]', x=-1561.80, y=80.00, z=-741.94]
+[19:06:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16424, l='ServerLevel[world]', x=-1558.84, y=80.00, z=-744.80]
+[19:07:58] [User Authenticator #7/INFO]: UUID of player god_desu is 70e8a532-b20f-475e-af80-856c6efaadf6
+[19:07:58] [Server thread/INFO]: god_desu[/197.185.97.16:41698] logged in with entity id 16666 at (-1620.8908273940024, 113.00133597911214, -702.7812957911565)
+[19:07:58] [Server thread/INFO]: god_desu joined the game
+[19:08:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16694, l='ServerLevel[world]', x=-1557.46, y=79.00, z=-740.30]
+[19:08:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16694, l='ServerLevel[world]', x=-1557.46, y=79.00, z=-740.30]
+[19:08:47] [Server thread/INFO]: <TwoMinuteMoodles> GET WAHT
+[19:09:30] [Server thread/INFO]: <TwoMinuteMoodles> i want to build a village
+[19:09:35] [Server thread/INFO]: <TwoMinuteMoodles> no
+[19:09:39] [Server thread/INFO]: <TwoMinuteMoodles> near the farm
+[19:10:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/17463, l='ServerLevel[world]', x=-1559.80, y=79.00, z=-742.49]
+[19:10:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/17463, l='ServerLevel[world]', x=-1559.80, y=79.00, z=-742.49]
+[19:14:39] [Server thread/INFO]: <TwoMinuteMoodles> what movie
+[19:14:51] [Server thread/INFO]: <TwoMinuteMoodles> what
+[19:15:25] [Server thread/INFO]: <TwoMinuteMoodles> ill climax and scream in ur face
+[19:16:09] [Server thread/INFO]: <TwoMinuteMoodles> i hve 1
+[19:17:02] [Server thread/INFO]: <TwoMinuteMoodles> use an elytra
+[19:17:06] [Server thread/INFO]: <TwoMinuteMoodles> and an enderpearl
+[19:17:13] [Server thread/INFO]: <TwoMinuteMoodles> rudo
+[19:17:13] [Server thread/INFO]: <TwoMinuteMoodles> come
+[19:17:16] [Server thread/INFO]: <TwoMinuteMoodles> i want to show u something
+[19:17:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/19121, l='ServerLevel[world]', x=-1560.67, y=79.00, z=-740.02]
+[19:17:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/19121, l='ServerLevel[world]', x=-1560.67, y=79.00, z=-740.02]
+[19:17:18] [Server thread/INFO]: <TwoMinuteMoodles> that ur gonna enjoy
+[19:17:22] [Server thread/INFO]: <TwoMinuteMoodles> i think ull appreciate this
+[19:17:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/19172, l='ServerLevel[world]', x=-1559.36, y=79.00, z=-743.24]
+[19:17:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/19172, l='ServerLevel[world]', x=-1559.36, y=79.00, z=-743.24]
+[19:17:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/19172, l='ServerLevel[world]', x=-1559.36, y=79.00, z=-743.24]
+[19:17:38] [Server thread/INFO]: <TwoMinuteMoodles> to portal
+[19:17:48] [Server thread/INFO]: <TwoMinuteMoodles> come nethr
+[19:17:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/19325, l='ServerLevel[world]', x=-1556.85, y=80.00, z=-744.30]
+[19:17:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/19325, l='ServerLevel[world]', x=-1556.85, y=80.00, z=-744.30]
+[19:18:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/19508, l='ServerLevel[world]', x=-1556.71, y=79.00, z=-740.01]
+[19:18:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/19924, l='ServerLevel[world]', x=-1560.19, y=79.00, z=-740.92]
+[19:20:49] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[19:20:49] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[19:21:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/21154, l='ServerLevel[world]', x=-1555.70, y=79.00, z=-742.89]
+[19:21:19] [Server thread/INFO]: god_desu fell off a ladder
+[19:21:31] [Server thread/INFO]: <TwoMinuteMoodles> BRUH
+[19:21:36] [Server thread/INFO]: <TwoMinuteMoodles> serves u right
+[19:21:41] [Server thread/INFO]: <TwoMinuteMoodles> for coming into the nether without armour
+[19:22:01] [Server thread/INFO]: <TwoMinuteMoodles> come back
+[19:22:04] [Server thread/INFO]: <TwoMinuteMoodles> u know the way
+[19:22:45] [Server thread/WARN]: TwoMinuteMoodles moved too quickly! -10.234885360366036,0.0,-3.7002409109383123
+[19:23:50] [Server thread/INFO]: <TwoMinuteMoodles> use these
+[19:23:52] [Server thread/INFO]: <TwoMinuteMoodles> tog et across
+[19:25:10] [Server thread/INFO]: <TwoMinuteMoodles> come get the xp
+[19:25:17] [Server thread/INFO]: god_desu was burnt to a crisp whilst fighting TwoMinuteMoodles
+[19:25:25] [Server thread/INFO]: <TwoMinuteMoodles> u walked in front of me
+[19:25:27] [Server thread/INFO]: <TwoMinuteMoodles> while i was farming
+[19:25:29] [Server thread/INFO]: <TwoMinuteMoodles> u dumbass
+[19:25:30] [Server thread/INFO]: <TwoMinuteMoodles> XD
+[19:25:53] [Server thread/INFO]: <TwoMinuteMoodles> 1 minute here gives 30 levels of xp
+[19:26:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/25797, l='ServerLevel[world]', x=-1556.84, y=79.00, z=-743.10]
+[19:26:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/25833, l='ServerLevel[world]', x=-1555.65, y=79.00, z=-743.80]
+[19:26:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/25868, l='ServerLevel[world]', x=-1557.07, y=80.00, z=-745.34]
+[19:27:04] [Server thread/INFO]: <TwoMinuteMoodles> irony isn t it
+[19:27:12] [Server thread/INFO]: <TwoMinuteMoodles> the white man loves my nigga killing farm
+[19:27:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1669, y=60, z=-582} fx{x=-1671, y=61, z=-581}
+[19:27:49] [Server thread/INFO]: <TwoMinuteMoodles> lvl 50 btw
+[19:28:01] [Server thread/INFO]: <TwoMinuteMoodles> bring a sword
+[19:28:03] [Server thread/INFO]: <TwoMinuteMoodles> sweeping edge
+[19:28:06] [Server thread/INFO]: <TwoMinuteMoodles> and armour
+[19:28:12] [Server thread/INFO]: <TwoMinuteMoodles> theres sweeping edge
+[19:28:15] [Server thread/INFO]: <TwoMinuteMoodles> in the chet
+[19:28:16] [Server thread/INFO]: <TwoMinuteMoodles> in armory
+[19:28:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/28008, l='ServerLevel[world]', x=-1558.31, y=79.00, z=-741.69]
+[19:28:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/28008, l='ServerLevel[world]', x=-1558.31, y=79.00, z=-741.69]
+[19:30:17] [Server thread/INFO]: <TwoMinuteMoodles> transport chest
+[19:30:38] [Server thread/INFO]: god_desu has reached the goal [Sky's the Limit]
+[19:30:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/30227, l='ServerLevel[world]', x=-1559.88, y=79.00, z=-739.14]
+[19:30:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/30227, l='ServerLevel[world]', x=-1559.88, y=79.00, z=-739.14]
+[19:31:21] [Server thread/INFO]: <TwoMinuteMoodles> did u guys know bullet for my valentine had a track in most wanted
+[19:31:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/30846, l='ServerLevel[world]', x=-1559.33, y=79.00, z=-740.52]
+[19:32:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/31077, l='ServerLevel[world]', x=-1555.44, y=80.00, z=-744.96]
+[19:32:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/31556, l='ServerLevel[world]', x=-1556.74, y=79.00, z=-740.77]
+[19:33:16] [Server thread/INFO]: <TwoMinuteMoodles> lvl 60 btw
+[19:33:36] [Server thread/INFO]: <TwoMinuteMoodles> so ender men cant spawn onit
+[19:33:43] [Server thread/INFO]: <TwoMinuteMoodles> they fell onto it
+[19:33:45] [Server thread/INFO]: <TwoMinuteMoodles> from the top
+[19:34:00] [Server thread/INFO]: <TwoMinuteMoodles> hold down rudo
+[19:34:07] [Server thread/INFO]: <TwoMinuteMoodles> charge ur auto attcks
+[19:34:13] [Server thread/INFO]: <TwoMinuteMoodles> for aoe
+[19:35:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/34571, l='ServerLevel[world]', x=-1560.80, y=79.00, z=-741.38]
+[19:35:11] [Server thread/INFO]: <TwoMinuteMoodles> get a wha
+[19:35:43] [Server thread/INFO]: <TwoMinuteMoodles> a bwip farm?
+[19:35:51] [Server thread/INFO]: <TwoMinuteMoodles> bwiP
+[19:35:52] [Server thread/INFO]: <TwoMinuteMoodles> ?
+[19:35:58] [Server thread/INFO]: <TwoMinuteMoodles> bwip
+[19:36:01] [Server thread/INFO]: <TwoMinuteMoodles> what are u saying
+[19:36:03] [Server thread/INFO]: <god_desu> book
+[19:36:06] [Server thread/INFO]: <TwoMinuteMoodles> i cant hear u over ender men
+[19:36:08] [Server thread/INFO]: <TwoMinuteMoodles> oh ok
+[19:36:18] [Server thread/INFO]: <TwoMinuteMoodles> i would be down
+[19:36:22] [Server thread/INFO]: <TwoMinuteMoodles> i can get that sorted
+[19:36:44] [Server thread/INFO]: <TwoMinuteMoodles> rudo xp lvl?
+[19:37:05] [Server thread/INFO]: <TwoMinuteMoodles> bring what
+[19:37:06] [Server thread/INFO]: <TwoMinuteMoodles> spirals?
+[19:37:20] [Server thread/INFO]: <TwoMinuteMoodles> oh
+[19:37:25] [Server thread/INFO]: <TwoMinuteMoodles> maybe
+[19:38:35] [Server thread/INFO]: <TwoMinuteMoodles> call me FW de klerk
+[19:38:50] [Server thread/INFO]: <TwoMinuteMoodles> coz i be killing niggas for personal gain
+[19:39:04] [Server thread/INFO]: <TwoMinuteMoodles> this is so toxic
+[19:39:07] [Server thread/INFO]: <TwoMinuteMoodles> i feel like this is cheating
+[19:39:10] [Server thread/INFO]: <TwoMinuteMoodles> XD
+[19:39:14] [Server thread/INFO]: <TwoMinuteMoodles> i mean its not
+[19:39:16] [Server thread/INFO]: <TwoMinuteMoodles> but
+[19:39:19] [Server thread/INFO]: <TwoMinuteMoodles> it feels very unvanilla
+[19:39:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/40091, l='ServerLevel[world]', x=-1557.29, y=79.00, z=-739.57]
+[19:39:39] [Server thread/INFO]: <TwoMinuteMoodles> whats ur xp level
+[19:39:47] [Server thread/INFO]: <TwoMinuteMoodles> ok
+[19:39:50] [Server thread/INFO]: <TwoMinuteMoodles> ill leave it for u
+[19:39:53] [Server thread/INFO]: <TwoMinuteMoodles> ur getting less
+[19:39:56] [Server thread/INFO]: <TwoMinuteMoodles> bc we're sharing
+[19:39:59] [Server thread/INFO]: <TwoMinuteMoodles> im 64
+[19:40:39] [Server thread/INFO]: <TwoMinuteMoodles> for what
+[19:40:47] [Server thread/INFO]: <TwoMinuteMoodles> arrows?
+[19:40:55] [Server thread/INFO]: <TwoMinuteMoodles> we dont need arrows
+[19:41:05] [Server thread/INFO]: <TwoMinuteMoodles> we can just perma enchant until we get infinity
+[19:43:16] [Server thread/INFO]: god_desu fell from a high place
+[19:43:21] [Server thread/INFO]: <TwoMinuteMoodles> LOL
+[19:43:23] [Server thread/INFO]: <TwoMinuteMoodles> GOODBYE XP
+[19:44:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/42996, l='ServerLevel[world]', x=-1559.80, y=80.00, z=-737.63]
+[19:44:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/42996, l='ServerLevel[world]', x=-1559.80, y=80.00, z=-737.63]
+[19:44:25] [Server thread/INFO]: <TwoMinuteMoodles> look
+[19:44:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43106, l='ServerLevel[world]', x=-1559.33, y=79.00, z=-740.52]
+[19:44:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43106, l='ServerLevel[world]', x=-1559.33, y=79.00, z=-740.52]
+[19:44:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43106, l='ServerLevel[world]', x=-1559.33, y=79.00, z=-740.52]
+[19:44:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43140, l='ServerLevel[world]', x=-1560.19, y=79.00, z=-740.92]
+[19:44:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43140, l='ServerLevel[world]', x=-1560.19, y=79.00, z=-740.92]
+[19:44:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43140, l='ServerLevel[world]', x=-1560.19, y=79.00, z=-740.92]
+[19:44:58] [Server thread/INFO]: <TwoMinuteMoodles> u basically have a chest in ur inventory
+[19:45:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43254, l='ServerLevel[world]', x=-1561.17, y=79.00, z=-739.77]
+[19:45:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43254, l='ServerLevel[world]', x=-1561.17, y=79.00, z=-739.77]
+[19:45:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43254, l='ServerLevel[world]', x=-1561.17, y=79.00, z=-739.77]
+[19:46:05] [Server thread/INFO]: <TwoMinuteMoodles> looks like we have a mexican standoff
+[19:46:45] [Server thread/INFO]: god_desu hit the ground too hard
+[19:47:01] [Server thread/INFO]: LUJEFX fell from a high place
+[19:47:06] [Server thread/INFO]: <TwoMinuteMoodles> wtf XD
+[19:47:25] [Server thread/INFO]: god_desu was slain by TwoMinuteMoodles using [Blade of the Ender King]
+[19:47:31] [Server thread/INFO]: <TwoMinuteMoodles> ok
+[19:47:32] [Server thread/INFO]: <TwoMinuteMoodles> enuf
+[19:47:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43700, l='ServerLevel[world]', x=-1555.01, y=80.00, z=-740.90]
+[19:47:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43700, l='ServerLevel[world]', x=-1555.01, y=80.00, z=-740.90]
+[19:47:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43700, l='ServerLevel[world]', x=-1555.01, y=80.00, z=-740.90]
+[19:47:36] [Server thread/INFO]: <TwoMinuteMoodles> sorry
+[19:47:40] [Server thread/INFO]: <TwoMinuteMoodles> i just wanted u to see my sword
+[19:47:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43749, l='ServerLevel[world]', x=-1560.90, y=80.00, z=-742.64]
+[19:47:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43749, l='ServerLevel[world]', x=-1560.90, y=80.00, z=-742.64]
+[19:47:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43749, l='ServerLevel[world]', x=-1560.90, y=80.00, z=-742.64]
+[19:48:12] [Server thread/INFO]: <TwoMinuteMoodles> in the nether
+[19:48:28] [Server thread/INFO]: <TwoMinuteMoodles> what farm
+[19:48:36] [Server thread/INFO]: <TwoMinuteMoodles> huh
+[19:48:39] [Server thread/INFO]: <TwoMinuteMoodles> a book farm
+[19:48:40] [Server thread/INFO]: <TwoMinuteMoodles> ?
+[19:48:46] [Server thread/INFO]: <TwoMinuteMoodles> leather and cane
+[19:48:52] [Server thread/INFO]: <TwoMinuteMoodles> what if we actually
+[19:48:53] [Server thread/INFO]: <TwoMinuteMoodles> just do it
+[19:48:56] [Server thread/INFO]: <TwoMinuteMoodles> in the end
+[19:48:57] [Server thread/INFO]: <TwoMinuteMoodles> ?
+[19:49:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/44026, l='ServerLevel[world]', x=-1559.16, y=80.00, z=-744.28]
+[19:49:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/44026, l='ServerLevel[world]', x=-1559.16, y=80.00, z=-744.28]
+[19:49:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/44026, l='ServerLevel[world]', x=-1559.16, y=80.00, z=-744.28]
+[19:50:14] [Server thread/INFO]: <TwoMinuteMoodles> so are we inagreement
+[19:50:21] [Server thread/INFO]: <TwoMinuteMoodles> we do it in the end?
+[19:50:35] [Server thread/INFO]: <TwoMinuteMoodles> get a grass glob
+[19:50:37] [Server thread/INFO]: <TwoMinuteMoodles> block
+[19:50:38] [Server thread/INFO]: <TwoMinuteMoodles> ok
+[19:50:40] [Server thread/INFO]: <TwoMinuteMoodles> ill get 1
+[19:50:58] [Server thread/INFO]: <TwoMinuteMoodles> pretentious
+[19:50:59] [Server thread/INFO]: <TwoMinuteMoodles> rudo
+[19:51:00] [Server thread/INFO]: <TwoMinuteMoodles> get wheat
+[19:51:02] [Server thread/INFO]: <TwoMinuteMoodles> ill get the grass
+[19:51:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/44504, l='ServerLevel[world]', x=-1560.33, y=79.00, z=-738.20]
+[19:51:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/44504, l='ServerLevel[world]', x=-1560.33, y=79.00, z=-738.20]
+[19:51:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/44504, l='ServerLevel[world]', x=-1560.33, y=79.00, z=-738.20]
+[19:51:22] [Server thread/INFO]: <TwoMinuteMoodles> can u put a saddle on a cow
+[19:51:32] [Server thread/INFO]: <TwoMinuteMoodles> do we have a lead
+[19:52:49] [Server thread/INFO]: <TwoMinuteMoodles> get the cane
+[19:52:51] [Server thread/INFO]: <TwoMinuteMoodles> ill get a grass block
+[19:52:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/44911, l='ServerLevel[world]', x=-1559.58, y=79.00, z=-741.55]
+[19:52:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/44911, l='ServerLevel[world]', x=-1559.58, y=79.00, z=-741.55]
+[19:52:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/44911, l='ServerLevel[world]', x=-1559.58, y=79.00, z=-741.55]
+[19:52:53] [Server thread/INFO]: <TwoMinuteMoodles> make a lead
+[19:53:05] [Server thread/INFO]: <TwoMinuteMoodles> yea
+[19:53:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/45018, l='ServerLevel[world]', x=-1558.88, y=80.00, z=-744.80]
+[19:53:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/45018, l='ServerLevel[world]', x=-1558.88, y=80.00, z=-744.80]
+[19:53:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/45018, l='ServerLevel[world]', x=-1558.88, y=80.00, z=-744.80]
+[19:53:14] [Server thread/INFO]: <TwoMinuteMoodles> we dont hav strings
+[19:53:26] [Server thread/INFO]: <TwoMinuteMoodles> i have 4
+[19:53:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/45099, l='ServerLevel[world]', x=-1559.80, y=80.00, z=-744.34]
+[19:53:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/45099, l='ServerLevel[world]', x=-1559.80, y=80.00, z=-744.34]
+[19:53:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/45099, l='ServerLevel[world]', x=-1559.80, y=80.00, z=-744.34]
+[19:54:21] [Server thread/INFO]: <TwoMinuteMoodles> luke
+[19:54:22] [Server thread/INFO]: <TwoMinuteMoodles> recipe
+[19:54:23] [Server thread/INFO]: <TwoMinuteMoodles> for lead
+[19:55:32] [Server thread/INFO]: LUJEFX lost connection: Disconnected
+[19:55:32] [Server thread/INFO]: LUJEFX left the game
+[19:56:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/46198, l='ServerLevel[world]', x=-1556.28, y=79.00, z=-741.44]
+[19:57:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/46431, l='ServerLevel[world]', x=-1560.80, y=79.00, z=-741.80]
+[19:57:37] [Server thread/INFO]: <TwoMinuteMoodles> rudo
+[19:57:40] [Server thread/INFO]: <TwoMinuteMoodles> bring fences pls
+[19:57:44] [Server thread/INFO]: <TwoMinuteMoodles> im taking the cows
+[19:59:23] [Server thread/INFO]: <TwoMinuteMoodles> im busy
+[19:59:57] [Server thread/INFO]: <TwoMinuteMoodles> trying to get cows across the nether
+[20:03:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Lead'/49526, l='ServerLevel[world]', x=-188.79, y=71.00, z=-59.88]
+[20:05:37] [Server thread/INFO]: <TwoMinuteMoodles> THIS COW WONT GO THRU THE PORTAL
+[20:05:38] [Server thread/INFO]: <TwoMinuteMoodles> WTF
+[20:06:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Lead'/51385, l='ServerLevel[world]', x=-189.00, y=71.00, z=-59.88]
+[20:06:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Lead'/51382, l='ServerLevel[world]', x=-189.51, y=71.00, z=-58.21]
+[20:09:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Lead'/53573, l='ServerLevel[world]', x=-190.20, y=46.00, z=124.65]
+[20:09:29] [Server thread/INFO]: <TwoMinuteMoodles> did it die
+[20:09:38] [Server thread/INFO]: <TwoMinuteMoodles> her comes here
+[20:09:56] [Server thread/INFO]: <TwoMinuteMoodles> go to the end portal
+[20:10:01] [Server thread/INFO]: <TwoMinuteMoodles> try and get that cow into the portal
+[20:10:06] [Server thread/INFO]: <TwoMinuteMoodles> take this lead
+[20:10:27] [Server thread/INFO]: <TwoMinuteMoodles> no
+[20:10:39] [Server thread/INFO]: <TwoMinuteMoodles> where did u go
+[20:10:41] [Server thread/INFO]: <TwoMinuteMoodles> whic cow
+[20:10:46] [Server thread/INFO]: <TwoMinuteMoodles> the one in the nether or near the end
+[20:12:06] [Server thread/INFO]: <TwoMinuteMoodles> NO
+[20:12:08] [Server thread/INFO]: <TwoMinuteMoodles> iT FUCKING DEID
+[20:12:09] [Server thread/INFO]: <TwoMinuteMoodles> WT
+[20:15:50] [Server thread/INFO]: god_desu lost connection: Disconnected
+[20:15:50] [Server thread/INFO]: god_desu left the game
+[20:19:21] [User Authenticator #8/INFO]: UUID of player god_desu is 70e8a532-b20f-475e-af80-856c6efaadf6
+[20:19:21] [Server thread/INFO]: god_desu[/197.185.97.16:41716] logged in with entity id 55763 at (-1515.0267782093717, 64.0, -488.1042675671052)
+[20:19:21] [Server thread/INFO]: god_desu joined the game
+[20:19:50] [Server thread/INFO]: god_desu lost connection: Disconnected
+[20:19:50] [Server thread/INFO]: god_desu left the game
+[20:23:51] [User Authenticator #9/INFO]: UUID of player god_desu is 70e8a532-b20f-475e-af80-856c6efaadf6
+[20:23:51] [Server thread/INFO]: god_desu[/197.185.97.16:41721] logged in with entity id 57196 at (-1543.958928477525, 76.0, -632.2787491165957)
+[20:23:51] [Server thread/INFO]: god_desu joined the game
+[20:24:35] [Server thread/INFO]: <TwoMinuteMoodles> rudo
+[20:24:37] [Server thread/INFO]: <TwoMinuteMoodles> 1 cow in the hole
+[20:26:21] [Server thread/INFO]: god_desu was slain by Piglin
+[20:27:24] [Server thread/INFO]: <TwoMinuteMoodles> nah u just anoob my guy
+[20:27:44] [Server thread/INFO]: god_desu was slain by Piglin
+[20:27:47] [Server thread/INFO]: <TwoMinuteMoodles> XD
+[20:29:29] [Server thread/INFO]: <TwoMinuteMoodles> im coming
+[20:30:52] [Server thread/INFO]: <TwoMinuteMoodles> wheres the cow
+[20:33:40] [Server thread/INFO]: <TwoMinuteMoodles> go on
+[20:33:44] [Server thread/INFO]: <TwoMinuteMoodles> go ready the cane far
+[20:33:45] [Server thread/INFO]: <TwoMinuteMoodles> farm
+[20:36:05] [Server thread/INFO]: <TwoMinuteMoodles> the cow fell off :')
+[20:36:22] [Server thread/INFO]: <TwoMinuteMoodles> do u have a lead
+[20:36:31] [Server thread/INFO]: <TwoMinuteMoodles> u do?
+[20:36:48] [Server thread/INFO]: god_desu fell out of the world
+[20:36:49] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at zy.b(SourceFile:202) ~[server(1).jar:?]
+	at zs.a(SourceFile:939) ~[server(1).jar:?]
+	at aae.a(SourceFile:467) ~[server(1).jar:?]
+	at aay.a(SourceFile:931) ~[server(1).jar:?]
+	at st.a(SourceFile:122) ~[server(1).jar:?]
+	at st$a.a(SourceFile:56) ~[server(1).jar:?]
+	at ol.a(SourceFile:21) ~[server(1).jar:?]
+	at wb.run(SourceFile:18) ~[server(1).jar:?]
+	at aob.c(SourceFile:144) ~[server(1).jar:?]
+	at aof.c(SourceFile:23) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server(1).jar:?]
+	at aob.y(SourceFile:118) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server(1).jar:?]
+	at aob.bl(SourceFile:103) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:721) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server(1).jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
+[20:36:54] [Server thread/INFO]: <TwoMinuteMoodles> XD
+[20:37:10] [Server thread/INFO]: god_desu was slain by TwoMinuteMoodles using [Blade of the Ender King]
+[20:37:16] [Server thread/INFO]: <TwoMinuteMoodles> fkn poes
+[20:37:28] [Server thread/INFO]: <TwoMinuteMoodles> pls dont tell me the cows dead
+[20:37:45] [Server thread/INFO]: <TwoMinuteMoodles> the elytra
+[20:38:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/65566, l='ServerLevel[world]', x=-1557.04, y=80.00, z=-745.31]
+[20:38:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/65566, l='ServerLevel[world]', x=-1557.04, y=80.00, z=-745.31]
+[20:39:11] [Server thread/INFO]: <TwoMinuteMoodles> nvm
+[20:39:13] [Server thread/INFO]: <TwoMinuteMoodles> im good
+[20:39:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/65746, l='ServerLevel[world]', x=-1554.54, y=79.00, z=-737.98]
+[20:39:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/65746, l='ServerLevel[world]', x=-1554.54, y=79.00, z=-737.98]
+[20:40:18] [Server thread/INFO]: Kicked TwoMinuteMoodles: Kicked by an operator
+[20:40:18] [Server thread/INFO]: TwoMinuteMoodles lost connection: Kicked by an operator
+[20:40:18] [Server thread/INFO]: TwoMinuteMoodles left the game
+[20:40:28] [User Authenticator #10/INFO]: UUID of player TwoMinuteMoodles is da149619-25d7-4577-86fa-b5d0d95ebfa6
+[20:40:28] [Server thread/INFO]: TwoMinuteMoodles[/41.115.95.47:62500] logged in with entity id 66196 at (-1403.311317234837, 86.11650136792812, -659.7829072538021)
+[20:40:28] [Server thread/INFO]: TwoMinuteMoodles joined the game
+[20:40:32] [Server thread/INFO]: <TwoMinuteMoodles> "nvm im fine"
+[20:41:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/66548, l='ServerLevel[world]', x=-1559.42, y=79.00, z=-740.36]
+[20:41:32] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
+[20:47:22] [Server thread/INFO]: <TwoMinuteMoodles> 2*
+[20:48:03] [User Authenticator #11/INFO]: UUID of player LUJEFX is 2d10997b-9e1a-4cff-8133-e4593a8ff793
+[20:48:03] [Server thread/INFO]: LUJEFX[/197.94.93.136:55061] logged in with entity id 69732 at (-1630.4913109335155, 112.0, -707.0352965900254)
+[20:48:03] [Server thread/INFO]: LUJEFX joined the game
+[20:48:22] [Server thread/INFO]: LUJEFX lost connection: Disconnected
+[20:48:22] [Server thread/INFO]: LUJEFX left the game
+[20:48:36] [Server thread/INFO]: <TwoMinuteMoodles> the fucking thing died
+[20:48:54] [User Authenticator #12/INFO]: UUID of player LUJEFX is 2d10997b-9e1a-4cff-8133-e4593a8ff793
+[20:48:54] [Server thread/INFO]: LUJEFX[/197.94.93.136:55071] logged in with entity id 71137 at (-1636.1750262208839, 112.0, -714.4553251465363)
+[20:48:54] [Server thread/INFO]: LUJEFX joined the game
+[20:49:17] [Server thread/INFO]: LUJEFX lost connection: Disconnected
+[20:49:17] [Server thread/INFO]: LUJEFX left the game
+[20:49:44] [User Authenticator #13/INFO]: UUID of player LUJEFX is 2d10997b-9e1a-4cff-8133-e4593a8ff793
+[20:49:45] [Server thread/INFO]: LUJEFX[/197.94.93.136:55078] logged in with entity id 71610 at (-1637.2352120071535, 112.0, -714.2967520189306)
+[20:49:45] [Server thread/INFO]: LUJEFX joined the game
+[20:49:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/71993, l='ServerLevel[world]', x=-1561.80, y=79.00, z=-739.20]
+[20:52:21] [Server thread/INFO]: LUJEFX lost connection: Timed out
+[20:52:21] [Server thread/INFO]: LUJEFX left the game
+[20:53:08] [User Authenticator #14/INFO]: UUID of player LUJEFX is 2d10997b-9e1a-4cff-8133-e4593a8ff793
+[20:53:08] [Server thread/INFO]: LUJEFX[/197.94.93.136:55089] logged in with entity id 73499 at (-189.5, 71.0, -59.26513058985438)
+[20:53:08] [Server thread/INFO]: LUJEFX joined the game
+[20:54:30] [Server thread/INFO]: <TwoMinuteMoodles> dude help
+[20:54:30] [Server thread/INFO]: <TwoMinuteMoodles> pls
+[20:54:41] [Server thread/INFO]: <TwoMinuteMoodles> its ok
+[20:54:45] [Server thread/INFO]: <TwoMinuteMoodles> ill figure it out
+[20:55:33] [Server thread/INFO]: TwoMinuteMoodles fell out of the world
+[20:55:41] [Server thread/INFO]: <TwoMinuteMoodles> im done
+[20:55:46] [Server thread/INFO]: <TwoMinuteMoodles> i am
+[20:55:47] [Server thread/INFO]: <TwoMinuteMoodles> ufcking dne
+[20:55:49] [Server thread/INFO]: <TwoMinuteMoodles> luke
+[20:55:50] [Server thread/INFO]: <TwoMinuteMoodles> u do it.
+[20:55:54] [Server thread/INFO]: <TwoMinuteMoodles> i got one cow
+[20:55:58] [Server thread/INFO]: <TwoMinuteMoodles> u do the other one
+[20:56:07] [Server thread/INFO]: <TwoMinuteMoodles> what do u mean
+[20:56:13] [Server thread/INFO]: <TwoMinuteMoodles> is there not 1 cow
+[20:56:28] [Server thread/INFO]: <LUJEFX> I AM IN THE END WHERE ART THOU BROWN COW
+[20:56:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/75117, l='ServerLevel[world]', x=-1557.01, y=80.00, z=-744.34]
+[20:57:00] [Server thread/WARN]: Trying to add entity with duplicated UUID 7c9d7905-a493-444c-a5e6-7660e1684c80. Existing minecraft:armor_stand#75251, new: minecraft:armor_stand#75251
+[20:57:33] [Server thread/INFO]: <TwoMinuteMoodles> u need to gt a new cow
+[20:58:53] [Server thread/INFO]: <TwoMinuteMoodles> i took hunger dmg
+[20:59:51] [Server thread/WARN]: LUJEFX moved too quickly! 0.8794379070417051,0.0,10.102025400128337
+[20:59:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
+[21:00:08] [Server thread/INFO]: <TwoMinuteMoodles> deshy babies
+[21:01:20] [Server thread/INFO]: god_desu fell out of the world
+[21:01:21] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at zy.b(SourceFile:202) ~[server(1).jar:?]
+	at zs.a(SourceFile:939) ~[server(1).jar:?]
+	at aae.a(SourceFile:467) ~[server(1).jar:?]
+	at aay.a(SourceFile:931) ~[server(1).jar:?]
+	at st.a(SourceFile:122) ~[server(1).jar:?]
+	at st$a.a(SourceFile:56) ~[server(1).jar:?]
+	at ol.a(SourceFile:21) ~[server(1).jar:?]
+	at wb.run(SourceFile:18) ~[server(1).jar:?]
+	at aob.c(SourceFile:144) ~[server(1).jar:?]
+	at aof.c(SourceFile:23) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server(1).jar:?]
+	at aob.y(SourceFile:118) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server(1).jar:?]
+	at aob.bl(SourceFile:103) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:721) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server(1).jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
+[21:01:33] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
+[21:01:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/78958, l='ServerLevel[world]', x=-1560.79, y=80.00, z=-742.51]
+[21:01:55] [Server thread/INFO]: <TwoMinuteMoodles> ./give cow_spawn_egg
+[21:02:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/79302, l='ServerLevel[world]', x=-1558.61, y=79.00, z=-743.80]
+[21:04:02] [Server thread/INFO]: <TwoMinuteMoodles> what a fucking pussy
+[21:04:53] [Server thread/WARN]: LUJEFX moved too quickly! 8.911587017942566,-2.346368007070538,3.990462336205269
+[21:04:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[21:05:33] [Server thread/INFO]: <TwoMinuteMoodles> this owe
+[21:05:36] [Server thread/INFO]: <TwoMinuteMoodles> just walked passed 2 cows
+[21:05:39] [Server thread/INFO]: <TwoMinuteMoodles> and didnt even realise it
+[21:05:46] [Server thread/INFO]: <TwoMinuteMoodles> yes
+[21:05:48] [Server thread/INFO]: <TwoMinuteMoodles> u just walke past 2
+[21:06:46] [Server thread/INFO]: <TwoMinuteMoodles> u just need 1
+[21:10:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Dirt'/82304, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50]
+[21:11:37] [Server thread/INFO]: <TwoMinuteMoodles> luke
+[21:11:39] [Server thread/INFO]: <TwoMinuteMoodles> it was ur job
+[21:11:42] [Server thread/INFO]: <TwoMinuteMoodles> to get the cow down
+[21:13:47] [Server thread/INFO]: <TwoMinuteMoodles> imagine losing a full set of netherite tools a maxed out bow and netherite armour
+[21:13:49] [Server thread/INFO]: <TwoMinuteMoodles> over a fucking cow
+[21:14:20] [Server thread/INFO]: <TwoMinuteMoodles> shut
+[21:14:21] [Server thread/INFO]: <TwoMinuteMoodles> he
+[21:14:22] [Server thread/INFO]: <TwoMinuteMoodles> fuck
+[21:14:23] [Server thread/INFO]: <TwoMinuteMoodles> up
+[21:15:58] [Server thread/INFO]: <TwoMinuteMoodles> u owes being here
+[21:16:02] [Server thread/INFO]: <TwoMinuteMoodles> are fucking the enderman spawning
+[21:16:14] [Server thread/INFO]: <TwoMinuteMoodles> bc ur one above the leaved
+[21:16:18] [Server thread/INFO]: <TwoMinuteMoodles> u need to be on the leave level
+[21:16:25] [Server thread/INFO]: <TwoMinuteMoodles> leaf
+[21:17:20] [Server thread/INFO]: <TwoMinuteMoodles> gt out
+[21:17:24] [Server thread/INFO]: <TwoMinuteMoodles> i sacrificed all m shit
+[21:17:25] [Server thread/INFO]: <TwoMinuteMoodles> for this
+[21:17:39] [Server thread/INFO]: <TwoMinuteMoodles> XD
+[21:17:55] [Server thread/INFO]: <TwoMinuteMoodles> oh
+[21:18:01] [Server thread/INFO]: <TwoMinuteMoodles> its bc ur not a certain about of blocks
+[21:18:08] [Server thread/INFO]: <TwoMinuteMoodles> away from the level on top
+[21:18:10] [Server thread/INFO]: <TwoMinuteMoodles> heighwise
+[21:18:33] [Server thread/INFO]: <TwoMinuteMoodles> i researched the spawn distance and everything
+[21:18:36] [Server thread/INFO]: <TwoMinuteMoodles> and made it perfectly
+[21:18:40] [Server thread/INFO]: <TwoMinuteMoodles> to 1 block diff
+[21:18:42] [Server thread/INFO]: <TwoMinuteMoodles> from lvl 1
+[21:18:59] [Server thread/INFO]: <TwoMinuteMoodles> im sayin
+[21:19:18] [Server thread/INFO]: <TwoMinuteMoodles> if someone is farming xp
+[21:19:21] [Server thread/INFO]: <TwoMinuteMoodles> noone else should be here
+[21:20:05] [Server thread/INFO]: <TwoMinuteMoodles> i gave u grss blocks
+[21:21:58] [Server thread/INFO]: <TwoMinuteMoodles> in all honesty
+[21:22:07] [Server thread/INFO]: <TwoMinuteMoodles> i think alot of people would kill
+[21:22:11] [Server thread/INFO]: <TwoMinuteMoodles> if there werent consequences
+[21:22:27] [Server thread/INFO]: <TwoMinuteMoodles> im pretty sure id kill people if there werent consequences
+[21:22:29] [Server thread/INFO]: <TwoMinuteMoodles> scary though
+[21:22:30] [Server thread/INFO]: <TwoMinuteMoodles> tt
+[21:22:32] [Server thread/INFO]: <TwoMinuteMoodles> t
+[21:23:00] [Server thread/INFO]: <TwoMinuteMoodles> im running out of ender pearls
+[21:23:21] [Server thread/INFO]: LUJEFX lost connection: Disconnected
+[21:23:21] [Server thread/INFO]: LUJEFX left the game
+[21:23:33] [Server thread/INFO]: <TwoMinuteMoodles> why
+[21:23:35] [Server thread/INFO]: <TwoMinuteMoodles> why did u do that
+[21:23:36] [User Authenticator #15/INFO]: UUID of player LUJEFX is 2d10997b-9e1a-4cff-8133-e4593a8ff793
+[21:23:36] [Server thread/INFO]: LUJEFX[/197.94.93.136:55297] logged in with entity id 85693 at (-42.30000001192095, 63.0, 4.30000001192096)
+[21:23:36] [Server thread/INFO]: LUJEFX joined the game
+[21:25:17] [Server thread/INFO]: <TwoMinuteMoodles> oh my god
+[21:25:23] [Server thread/INFO]: <TwoMinuteMoodles> half a heart
+[21:26:39] [Server thread/INFO]: <TwoMinuteMoodles> the xp farm is mega slow now
+[21:26:55] [Server thread/INFO]: <TwoMinuteMoodles> i think its bc of building there
+[21:27:05] [Server thread/INFO]: <TwoMinuteMoodles> shouldve built on the other side
+[21:27:08] [Server thread/INFO]: <TwoMinuteMoodles> or on the main island
+[21:27:15] [Server thread/INFO]: <TwoMinuteMoodles> should move it tbh
+[21:27:20] [Server thread/INFO]: <TwoMinuteMoodles> makes the whole xp farm pointless
+[21:27:29] [Server thread/INFO]: <TwoMinuteMoodles> actually
+[21:27:31] [Server thread/INFO]: <TwoMinuteMoodles> its fine
+[21:27:33] [Server thread/INFO]: <TwoMinuteMoodles> ill build another one
+[21:27:36] [Server thread/INFO]: <TwoMinuteMoodles> on the other side
+[21:27:54] [Server thread/INFO]: <TwoMinuteMoodles> ill build another ender man farm
+[21:27:56] [Server thread/INFO]: <TwoMinuteMoodles> on the other side
+[21:28:01] [Server thread/INFO]: <TwoMinuteMoodles> of the main island
+[21:29:18] [Server thread/WARN]: LUJEFX moved too quickly! 6.803571812838584,-8.0,7.9486743172194565
+[21:30:23] [Server thread/INFO]: LUJEFX lost connection: Disconnected
+[21:30:23] [Server thread/INFO]: LUJEFX left the game
+[21:30:29] [Server thread/INFO]: <TwoMinuteMoodles> this is so sad
+[21:30:36] [User Authenticator #16/INFO]: UUID of player LUJEFX is 2d10997b-9e1a-4cff-8133-e4593a8ff793
+[21:30:36] [Server thread/INFO]: LUJEFX[/197.94.93.136:55307] logged in with entity id 87961 at (245.56186048549654, 59.0, 1308.2259680610941)
+[21:30:36] [Server thread/INFO]: LUJEFX joined the game
+[21:30:43] [Server thread/INFO]: <TwoMinuteMoodles> wait its spawning fine now
+[21:30:44] [Server thread/INFO]: <TwoMinuteMoodles> wtf
+[21:31:23] [Server thread/WARN]: LUJEFX moved too quickly! -7.731659784615516,1.0,-7.174804439458967
+[21:33:17] [Server thread/INFO]: TwoMinuteMoodles lost connection: Timed out
+[21:33:17] [Server thread/INFO]: TwoMinuteMoodles left the game
+[21:33:18] [Server thread/WARN]: handleDisconnection() called twice
+[21:33:50] [Server thread/WARN]: LUJEFX moved too quickly! -6.889682028058019,-1.0,-7.234090589395919
+[21:41:13] [Server thread/WARN]: LUJEFX moved too quickly! -7.351767894807608,0.0,7.247313770964411
+[21:42:21] [User Authenticator #17/INFO]: UUID of player TwoMinuteMoodles is da149619-25d7-4577-86fa-b5d0d95ebfa6
+[21:42:21] [Server thread/INFO]: TwoMinuteMoodles[/41.115.95.47:62746] logged in with entity id 91762 at (209.7615151822503, 1.0, 59.414385329981904)
+[21:42:21] [Server thread/INFO]: TwoMinuteMoodles joined the game
+[21:42:21] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/91759, l='ServerLevel[world]', x=244.06, y=1.72, z=60.25]
+[21:43:03] [Server thread/INFO]: <TwoMinuteMoodles> rudo
+[21:43:07] [Server thread/INFO]: <TwoMinuteMoodles> it has to be on the other side
+[21:43:09] [Server thread/INFO]: <TwoMinuteMoodles> of the ladder
+[21:43:30] [Server thread/INFO]: <TwoMinuteMoodles> do u need more cobble
+[21:43:47] [Server thread/INFO]: <TwoMinuteMoodles> whers luke
+[21:44:00] [Server thread/INFO]: <TwoMinuteMoodles> get shulker shells
+[21:47:35] [Server thread/WARN]: LUJEFX moved too quickly! -7.301283018924437,1.0,-7.535931214340053
+[21:51:38] [Server thread/WARN]: LUJEFX moved too quickly! 7.765584162754465,-1.0,7.821916502630756
+[21:52:39] [Server thread/INFO]: <TwoMinuteMoodles> the frm is broken
+[21:52:43] [Server thread/INFO]: <TwoMinuteMoodles> its not spawning properly nuno
+[21:53:14] [Server thread/INFO]: <god_desu> we'll see if moving it helps
+[21:53:19] [Server thread/INFO]: <god_desu> moving this other shit
+[21:53:20] [Server thread/INFO]: <TwoMinuteMoodles> was streaming for nuno
+[21:56:57] [Server thread/INFO]: <TwoMinuteMoodles> i think the way my farm i spent an hour and a half building being broken is ass
+[21:57:34] [Server thread/INFO]: LUJEFX fell out of the world
+[21:57:35] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at zy.b(SourceFile:202) ~[server(1).jar:?]
+	at zs.a(SourceFile:939) ~[server(1).jar:?]
+	at aae.a(SourceFile:467) ~[server(1).jar:?]
+	at aay.a(SourceFile:931) ~[server(1).jar:?]
+	at st.a(SourceFile:122) ~[server(1).jar:?]
+	at st$a.a(SourceFile:56) ~[server(1).jar:?]
+	at ol.a(SourceFile:21) ~[server(1).jar:?]
+	at wb.run(SourceFile:18) ~[server(1).jar:?]
+	at aob.c(SourceFile:144) ~[server(1).jar:?]
+	at aof.c(SourceFile:23) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server(1).jar:?]
+	at aob.y(SourceFile:118) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server(1).jar:?]
+	at aob.bl(SourceFile:103) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:721) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server(1).jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
+[21:58:59] [Server thread/INFO]: <TwoMinuteMoodles> what a poes
+[21:59:07] [Server thread/INFO]: <TwoMinuteMoodles> what are u gonna do tomorrow
+[21:59:24] [Server thread/INFO]: LUJEFX lost connection: Disconnected
+[21:59:24] [Server thread/INFO]: LUJEFX left the game
+[21:59:58] [Server thread/INFO]: god_desu fell out of the world
+[21:59:59] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at zy.b(SourceFile:202) ~[server(1).jar:?]
+	at zs.a(SourceFile:939) ~[server(1).jar:?]
+	at aae.a(SourceFile:467) ~[server(1).jar:?]
+	at aay.a(SourceFile:931) ~[server(1).jar:?]
+	at st.a(SourceFile:122) ~[server(1).jar:?]
+	at st$a.a(SourceFile:56) ~[server(1).jar:?]
+	at ol.a(SourceFile:21) ~[server(1).jar:?]
+	at wb.run(SourceFile:18) ~[server(1).jar:?]
+	at aob.c(SourceFile:144) ~[server(1).jar:?]
+	at aof.c(SourceFile:23) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server(1).jar:?]
+	at aob.y(SourceFile:118) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server(1).jar:?]
+	at aob.bl(SourceFile:103) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:721) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server(1).jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
+[22:05:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/98955, l='ServerLevel[world]', x=-1554.20, y=80.00, z=-740.85]
+[22:05:32] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/98963, l='ServerLevel[world]', x=-1561.80, y=79.00, z=-739.80]
+[22:06:40] [Server thread/INFO]: <TwoMinuteMoodles> what
+[22:06:56] [Server thread/INFO]: <TwoMinuteMoodles> no idea what ur saying xD
+[22:07:08] [Server thread/INFO]: <TwoMinuteMoodles> wait
+[22:07:13] [Server thread/INFO]: <TwoMinuteMoodles> why did u take all the wood
+[22:07:14] [Server thread/INFO]: <TwoMinuteMoodles> wtf
+[22:07:22] [Server thread/INFO]: <TwoMinuteMoodles> dude there were 2 stacks of oak
+[22:07:24] [Server thread/INFO]: <TwoMinuteMoodles> logs
+[22:10:19] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/100088, l='ServerLevel[world]', x=-1559.80, y=79.00, z=-742.22]
+[22:10:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/100119, l='ServerLevel[world]', x=-1558.02, y=79.00, z=-743.80]
+[22:11:11] [Server thread/INFO]: <TwoMinuteMoodles> huh
+[22:11:17] [Server thread/INFO]: <TwoMinuteMoodles> enchanting
+[22:12:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/100899, l='ServerLevel[world]', x=-1557.06, y=79.00, z=-740.55]
+[22:18:08] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/102375, l='ServerLevel[world]', x=-1559.37, y=79.00, z=-743.80]
+[22:19:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/102700, l='ServerLevel[world]', x=-1559.80, y=79.00, z=-743.80]
+[22:19:25] [Server thread/INFO]: <TwoMinuteMoodles> what
+[22:19:26] [Server thread/INFO]: <TwoMinuteMoodles> say again
+[22:19:28] [Server thread/INFO]: <TwoMinuteMoodles> was zned out
+[22:20:02] [Server thread/WARN]: TwoMinuteMoodles moved wrongly!
+[22:22:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=204, y=1, z=50} fx{x=207, y=1, z=51}
+[22:29:26] [Server thread/INFO]: <TwoMinuteMoodles> shits still broken
+[22:29:29] [Server thread/INFO]: <TwoMinuteMoodles> just refuses to work now
+[22:30:16] [Server thread/INFO]: <TwoMinuteMoodles> how was that clutch boy
+[22:30:29] [Server thread/INFO]: <TwoMinuteMoodles> i dont have grass
+[22:30:32] [Server thread/INFO]: <TwoMinuteMoodles> i dont have silk touch
+[22:30:38] [Server thread/INFO]: <TwoMinuteMoodles> luke took the one spade
+[22:30:40] [Server thread/INFO]: <TwoMinuteMoodles> u took the pickaxe
+[22:30:55] [Server thread/INFO]: <TwoMinuteMoodles> theres silk touch at base
+[22:38:43] [Server thread/INFO]: god_desu fell out of the world
+[22:38:44] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at zy.b(SourceFile:202) ~[server(1).jar:?]
+	at zs.a(SourceFile:939) ~[server(1).jar:?]
+	at aae.a(SourceFile:467) ~[server(1).jar:?]
+	at aay.a(SourceFile:931) ~[server(1).jar:?]
+	at st.a(SourceFile:122) ~[server(1).jar:?]
+	at st$a.a(SourceFile:56) ~[server(1).jar:?]
+	at ol.a(SourceFile:21) ~[server(1).jar:?]
+	at wb.run(SourceFile:18) ~[server(1).jar:?]
+	at aob.c(SourceFile:144) ~[server(1).jar:?]
+	at aof.c(SourceFile:23) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server(1).jar:?]
+	at aob.y(SourceFile:118) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server(1).jar:?]
+	at aob.c(SourceFile:127) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server(1).jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server(1).jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
+[22:38:47] [Server thread/INFO]: god_desu lost connection: Disconnected
+[22:38:47] [Server thread/INFO]: god_desu left the game
+[22:39:26] [Server thread/INFO]: TwoMinuteMoodles lost connection: Disconnected
+[22:39:26] [Server thread/INFO]: TwoMinuteMoodles left the game
+[23:30:41] [Server thread/INFO]: Stopping server
+[23:30:41] [Server thread/INFO]: Saving players
+[23:30:41] [Server thread/INFO]: Saving worlds
+[23:30:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:30:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:30:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:30:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:30:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:30:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:30:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:30:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:30:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
